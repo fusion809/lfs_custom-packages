@@ -1,1 +1,13 @@
 0.7.8
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libdmtx.pc
+/usr/lib/libdmtx.so.0.0.0
+/usr/lib/libdmtx.la
+/usr/lib/libdmtx.so.0
+/usr/lib/libdmtx.a
+/usr/lib/libdmtx.so
+/usr/share/man/man3
+/usr/share/man/man3/libdmtx.3
+/usr/include
+/usr/include/dmtx.h
