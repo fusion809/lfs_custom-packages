@@ -1,1 +1,4 @@
 0.14.5
+/usr/share/pkgconfig
+/usr/share/pkgconfig/spice-protocol.pc
+/usr/include/spice-1/spice
