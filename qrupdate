@@ -1,1 +1,10 @@
 1.1.5
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/qrupdate.pc
+/usr/lib/libqrupdate.so.1.1.5
+/usr/lib/cmake/qrupdate
+/usr/lib/cmake/qrupdate/qrupdateConfigVersion.cmake
+/usr/lib/cmake/qrupdate/qrupdateTargets-release.cmake
+/usr/lib/cmake/qrupdate/qrupdateTargets.cmake
+/usr/lib/cmake/qrupdate/qrupdate-config.cmake
