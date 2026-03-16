@@ -1,1 +1,10 @@
 0.1.6
+/usr/lib/xorg/modules/drivers
+/usr/lib/xorg/modules/drivers/qxl_drv.so
+/usr/lib/xorg/modules/drivers/qxl_drv.la
+/usr/share/X11/xorg.conf.d
+/usr/share/X11/xorg.conf.d/05-qxl.conf.new
+/usr/bin
+/usr/bin/Xspice
+/etc/X11
+/etc/X11/spiceqxl.xorg.conf.new

@@ -1,1 +1,8 @@
 e8082035dafe0241739d7f7d16f7ecfd2ce06172
+/usr/share/fish/vendor_completions.d
+/usr/share/zsh/site-functions
+/usr/share/man/man1
+/usr/share/bash-completion/completions
+/usr/bin
+/usr/bin/wl-paste
+/usr/bin/wl-copy
