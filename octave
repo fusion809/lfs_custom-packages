@@ -1,4 +1,12 @@
 11.1.0
+/usr/bin
+/usr/bin/octave_exec
+/usr/bin/octave-cli-11.1.0
+/usr/bin/octave
+/usr/bin/octave-cli
+/usr/bin/octave-11.1.0
+/usr/bin/octave-config-11.1.0
+/usr/bin/octave-config
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/octave.pc
