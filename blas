@@ -1,4 +1,4 @@
-92ca29dc64481c70884a1170dc1edf4d1d055392
+a22074819d9226219d83f64a999e913f75b66607
 /usr/lib
 /usr/lib/libblas.so.3.12.1
 /usr/lib/libblas.so.3
@@ -12,7 +12,7 @@
 /usr/lib/cmake/lapack-3.12.1/lapack-config.cmake
 /usr/lib/cmake/lapack-3.12.1/lapack-targets.cmake
 /usr/share/doc
-/usr/share/doc/blas-92ca29dc64481c70884a1170dc1edf4d1d055392
+/usr/share/doc/blas-a22074819d9226219d83f64a999e913f75b66607
 /usr/include
 /usr/include/lapacke_mangling.h
 /usr/include/lapack.h
