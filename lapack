@@ -1,4 +1,4 @@
-c550a3638b03a89452bdc61887c79e244c928209
+a884b29254ab7aa578a64cdd7a35b040ee540023
 /usr/include/lapacke_mangling.h
 /usr/include/lapacke_utils.h
 /usr/include/lapacke_config.h
@@ -29,5 +29,5 @@ c550a3638b03a89452bdc61887c79e244c928209
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/lapack-c550a3638b03a89452bdc61887c79e244c928209
+/usr/share/doc/lapack-a884b29254ab7aa578a64cdd7a35b040ee540023
 /usr/include
