@@ -1,4 +1,4 @@
-9.2.0261
+9.2.0265
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
