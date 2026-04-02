@@ -1,8 +1,8 @@
 0.19
+/usr/include
 /usr/lib
-/usr/lib/pkgconfig
-/usr/lib/pkgconfig/pciaccess.pc
 /usr/lib/libpciaccess.so
 /usr/lib/libpciaccess.so.0
 /usr/lib/libpciaccess.so.0.11.1
-/usr/include
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/pciaccess.pc

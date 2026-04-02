@@ -1,8 +1,8 @@
 67a7b937895bceec1ae5ccebb10216f63f70ca1b
-/usr/share/fish/vendor_completions.d
-/usr/share/zsh/site-functions
-/usr/share/man/man1
-/usr/share/bash-completion/completions
 /usr/bin
-/usr/bin/wl-paste
 /usr/bin/wl-copy
+/usr/bin/wl-paste
+/usr/share/bash-completion/completions
+/usr/share/fish/vendor_completions.d
+/usr/share/man/man1
+/usr/share/zsh/site-functions

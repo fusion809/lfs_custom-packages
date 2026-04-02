@@ -1,8 +1,8 @@
 1.26
-/usr/share/man/man1
-/usr/share/man/man1/lzip.1
+/usr/bin
+/usr/bin/lzip
 /usr/share/info
 /usr/share/info/dir
 /usr/share/info/lzip.info
-/usr/bin
-/usr/bin/lzip
+/usr/share/man/man1
+/usr/share/man/man1/lzip.1
