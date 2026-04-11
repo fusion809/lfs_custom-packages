@@ -1648,7 +1648,3 @@
 /usr/bin/eog
 /usr/include/eog-3.0/eog
 /usr/share/icons/hicolor/symbolic
-/lib/eog
-/lib/eog/girepository-1.0
-/lib/eog/plugins
-/lib/pkgconfig
