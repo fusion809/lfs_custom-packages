@@ -1,4 +1,4 @@
-14f3af6976b257f197dcc77973af1658ff542ac3
+f6fb1114abedc83dcde51740d6318c390d8cdd89
 /usr/include/cblas_mangling.h
 /usr/include/cblas_64.h
 /usr/include/cblas.h
@@ -24,7 +24,7 @@
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/blas-14f3af6976b257f197dcc77973af1658ff542ac3
+/usr/share/doc/blas-f6fb1114abedc83dcde51740d6318c390d8cdd89
 /usr/include
 /lib/cmake/lapack-3.12.1/lapack-targets.cmake
 /lib/cmake/lapack-3.12.1/lapack-targets-none.cmake
