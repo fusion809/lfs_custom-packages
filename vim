@@ -1,4 +1,4 @@
-9.2.0368
+9.2.0382
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1369,6 +1369,7 @@
 /usr/share/vim/vim92/ftplugin/gitcommit.vim
 /usr/share/vim/vim92/ftplugin/gitattributes.vim
 /usr/share/vim/vim92/ftplugin/git.vim
+/usr/share/vim/vim92/ftplugin/ghostty.vim
 /usr/share/vim/vim92/ftplugin/gel.vim
 /usr/share/vim/vim92/ftplugin/gdshader.vim
 /usr/share/vim/vim92/ftplugin/gdscript.vim
@@ -2689,8 +2690,9 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0368
+/usr/share/doc/vim-9.2.0382
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
