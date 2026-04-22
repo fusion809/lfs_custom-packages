@@ -1,4 +1,4 @@
-9.2.0382
+9.2.0387
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -2690,9 +2690,8 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0382
+/usr/share/doc/vim-9.2.0387
 /usr/share/vim/vim92/plugin
-/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
