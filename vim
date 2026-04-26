@@ -1,4 +1,4 @@
-9.2.0392
+9.2.0398
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1483,6 +1483,7 @@
 /usr/share/vim/vim92/ftplugin/antlr4.vim
 /usr/share/vim/vim92/ftplugin/ant.vim
 /usr/share/vim/vim92/ftplugin/alsaconf.vim
+/usr/share/vim/vim92/ftplugin/algol68.vim
 /usr/share/vim/vim92/ftplugin/ada.vim
 /usr/share/vim/vim92/ftplugin/abnf.vim
 /usr/share/vim/vim92/ftplugin/abaqus.vim
@@ -2429,6 +2430,7 @@
 /usr/share/vim/vim92/syntax/aml.vim
 /usr/share/vim/vim92/syntax/amiga.vim
 /usr/share/vim/vim92/syntax/alsaconf.vim
+/usr/share/vim/vim92/syntax/algol68.vim
 /usr/share/vim/vim92/syntax/aidl.vim
 /usr/share/vim/vim92/syntax/ahdl.vim
 /usr/share/vim/vim92/syntax/aflex.vim
@@ -2690,13 +2692,15 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0392
+/usr/share/doc/vim-9.2.0398
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
