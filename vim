@@ -1,4 +1,4 @@
-9.2.0478
+9.2.0481
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -760,6 +760,7 @@
 /usr/share/vim/vim92/compiler/README.txt
 /usr/share/vim/vim92/compiler/zsh.vim
 /usr/share/vim/vim92/compiler/zig_test.vim
+/usr/share/vim/vim92/compiler/zig_cc.vim
 /usr/share/vim/vim92/compiler/zig_build_exe.vim
 /usr/share/vim/vim92/compiler/zig_build.vim
 /usr/share/vim/vim92/compiler/zig.vim
@@ -2692,7 +2693,8 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0478
+/usr/share/doc/vim-9.2.0481
+/usr/share/vim/vim92/compiler
 /usr/share/vim/vim92/plugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
