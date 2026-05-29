@@ -1,4 +1,4 @@
-9.2.0545
+9.2.0555
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1108,6 +1108,7 @@
 /usr/share/vim/vim92/ftplugin/tt2html.vim
 /usr/share/vim/vim92/ftplugin/treetop.vim
 /usr/share/vim/vim92/ftplugin/toml.vim
+/usr/share/vim/vim92/ftplugin/tolk.vim
 /usr/share/vim/vim92/ftplugin/tmux.vim
 /usr/share/vim/vim92/ftplugin/tidy.vim
 /usr/share/vim/vim92/ftplugin/tiasm.vim
@@ -1767,6 +1768,7 @@
 /usr/share/vim/vim92/syntax/trasys.vim
 /usr/share/vim/vim92/syntax/tpp.vim
 /usr/share/vim/vim92/syntax/toml.vim
+/usr/share/vim/vim92/syntax/tolk.vim
 /usr/share/vim/vim92/syntax/tmux.vim
 /usr/share/vim/vim92/syntax/tli.vim
 /usr/share/vim/vim92/syntax/tilde.vim
@@ -2693,13 +2695,15 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0545
+/usr/share/doc/vim-9.2.0555
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
