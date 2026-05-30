@@ -1,4 +1,4 @@
-9.2.0555
+9.2.0564
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1596,6 +1596,7 @@
 /usr/share/vim/vim92/indent/krl.vim
 /usr/share/vim/vim92/indent/kotlin.vim
 /usr/share/vim/vim92/indent/kdl.vim
+/usr/share/vim/vim92/indent/karel.vim
 /usr/share/vim/vim92/indent/just.vim
 /usr/share/vim/vim92/indent/julia.vim
 /usr/share/vim/vim92/indent/jsp.vim
@@ -2695,15 +2696,14 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0555
+/usr/share/doc/vim-9.2.0564
 /usr/share/vim/vim92/plugin
-/usr/share/vim/vim92/ftplugin
+/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
-/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
