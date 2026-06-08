@@ -1,6 +1,7 @@
-1.16.6
+1.18.0
 /usr/lib
 /usr/lib/tmpfiles.d
+/usr/lib/libflatpak.so.0.11800.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/flatpak.pc
 /usr/lib/systemd/user-environment-generators
@@ -12,16 +13,15 @@
 /usr/lib/systemd/user/flatpak-portal.service
 /usr/lib/systemd/user/flatpak-session-helper.service
 /usr/lib/libflatpak.so
-/usr/lib/libflatpak.so.0.11606.0
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/Flatpak-1.0.typelib
 /usr/lib/sysusers.d
 /usr/lib/sysusers.d/flatpak.conf
 /usr/lib/libflatpak.so.0
 /usr/share/doc
-/usr/share/doc/flatpak-1.16.6
-/usr/share/doc/flatpak-1.16.6/flatpak-docs.html
-/usr/share/doc/flatpak-1.16.6/libflatpak-docs.html
+/usr/share/doc/flatpak-1.18.0
+/usr/share/doc/flatpak-1.18.0/flatpak-docs.html
+/usr/share/doc/flatpak-1.18.0/libflatpak-docs.html
 /usr/share/gtk-doc/html
 /usr/share/gtk-doc/html/flatpak
 /usr/share/gtk-doc/html/flatpak/full-api-index.html
@@ -61,6 +61,8 @@
 /usr/share/gtk-doc/html/flatpak/FlatpakTransaction.html
 /usr/share/gtk-doc/html/flatpak/object-tree.html
 /usr/share/gtk-doc/html/flatpak/gdbus-org.freedesktop.portal.Flatpak.html
+/usr/share/gtk-doc/python/gtkdoc/__pycache__
+/usr/share/gtk-doc/python/gtkdoc/__pycache__/scangobj.cpython-314.pyc
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.freedesktop.Flatpak.policy
 /usr/share/polkit-1/rules.d
@@ -81,6 +83,8 @@
 /usr/share/locale/sl/LC_MESSAGES/flatpak.mo
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/flatpak.mo
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/flatpak.mo
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/flatpak.mo
 /usr/share/locale/oc/LC_MESSAGES
@@ -95,6 +99,8 @@
 /usr/share/locale/zh_CN/LC_MESSAGES/flatpak.mo
 /usr/share/locale/es/LC_MESSAGES
 /usr/share/locale/es/LC_MESSAGES/flatpak.mo
+/usr/share/locale/eo/LC_MESSAGES
+/usr/share/locale/eo/LC_MESSAGES/flatpak.mo
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/flatpak.mo
 /usr/share/locale/zh_TW/LC_MESSAGES
@@ -113,6 +119,8 @@
 /usr/share/locale/pt/LC_MESSAGES/flatpak.mo
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/flatpak.mo
+/usr/share/locale/kk/LC_MESSAGES
+/usr/share/locale/kk/LC_MESSAGES/flatpak.mo
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/flatpak.mo
 /usr/share/locale/sv/LC_MESSAGES
@@ -123,6 +131,7 @@
 /usr/share/locale/cs/LC_MESSAGES/flatpak.mo
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/flatpak.mo
+/usr/share/dbus-1/system.d
 /usr/share/dbus-1/interfaces
 /usr/share/dbus-1/services
 /usr/share/dbus-1/services/org.freedesktop.Flatpak.service
@@ -131,6 +140,17 @@
 /usr/share/dbus-1/system-services
 /usr/share/dbus-1/system-services/org.freedesktop.Flatpak.SystemHelper.service
 /usr/share/zsh/site-functions
+/usr/share/glib-2.0/codegen/__pycache__
+/usr/share/glib-2.0/codegen/__pycache__/codegen_main.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/codegen_rst.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/parser.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/codegen_docbook.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/__init__.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/config.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/codegen_md.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/utils.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/dbustypes.cpython-314.pyc
+/usr/share/glib-2.0/codegen/__pycache__/codegen.cpython-314.pyc
 /usr/share/flatpak/triggers
 /usr/share/bash-completion/completions
 /usr/bin
@@ -166,6 +186,7 @@
 /usr/man/man1/flatpak-build-finish.1
 /usr/man/man1/flatpak-install.1
 /usr/man/man1/flatpak-list.1
+/usr/man/man1/flatpak-preinstall.1
 /usr/man/man1/flatpak.1
 /usr/man/man1/flatpak-run.1
 /usr/man/man1/flatpak-info.1
@@ -201,7 +222,6 @@
 /usr/include/flatpak
 /usr/include/flatpak/flatpak-version-macros.h
 /usr/include/flatpak/flatpak-enum-types.h
-/etc/dbus-1/system.d
 /etc/profile.d
 /lib/girepository-1.0
 /lib/tmpfiles.d
