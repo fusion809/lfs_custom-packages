@@ -1,4 +1,4 @@
-a66e2a37c44cc8b4ef4914ed801bf58d597d4cd4
+077667a1be3673c81a697bc85254535dfe2d6b9d
 /usr/include/lapacke_mangling.h
 /usr/include/lapacke_utils.h
 /usr/include/lapacke_config.h
@@ -29,7 +29,7 @@ a66e2a37c44cc8b4ef4914ed801bf58d597d4cd4
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/lapack-a66e2a37c44cc8b4ef4914ed801bf58d597d4cd4
+/usr/share/doc/lapack-077667a1be3673c81a697bc85254535dfe2d6b9d
 /usr/include
 /lib/cmake/lapack-3.12.1/lapack-targets.cmake
 /lib/cmake/lapack-3.12.1/lapack-targets-none.cmake
