@@ -1,10 +1,12 @@
-2.5.1
+2.6.0
 /usr/lib
 /usr/lib/libfabric.so.1
 /usr/lib/libfabric.la
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libfabric.pc
-/usr/lib/libfabric.so.1.31.1
+/usr/lib/libKF6ScreenDpms.so.8
+/usr/lib/libfabric.so.1.32.0
+/usr/lib/libKF6Screen.so.8
 /usr/lib/libfabric.a
 /usr/lib/libfabric.so
 /usr/share/man/man7

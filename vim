@@ -1,4 +1,4 @@
-9.2.0699
+9.2.0738
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1667,6 +1667,7 @@
 /usr/share/vim/vim92/indent/chaiscript.vim
 /usr/share/vim/vim92/indent/ch.vim
 /usr/share/vim/vim92/indent/cdl.vim
+/usr/share/vim/vim92/indent/cabal.vim
 /usr/share/vim/vim92/indent/c.vim
 /usr/share/vim/vim92/indent/bzl.vim
 /usr/share/vim/vim92/indent/bst.vim
@@ -2704,8 +2705,9 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0699
+/usr/share/doc/vim-9.2.0738
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
