@@ -1,4 +1,4 @@
-9.2.0738
+9.2.0747
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1823,8 +1823,12 @@
 /usr/share/vim/vim92/syntax/stp.vim
 /usr/share/vim/vim92/syntax/stata.vim
 /usr/share/vim/vim92/syntax/st.vim
+/usr/share/vim/vim92/syntax/sshpublickey.vim
+/usr/share/vim/vim92/syntax/sshknownhosts.vim
 /usr/share/vim/vim92/syntax/sshdconfig.vim
 /usr/share/vim/vim92/syntax/sshconfig.vim
+/usr/share/vim/vim92/syntax/sshauthorizedkeys.vim
+/usr/share/vim/vim92/syntax/sshallowedsigners.vim
 /usr/share/vim/vim92/syntax/ssa.vim
 /usr/share/vim/vim92/syntax/srt.vim
 /usr/share/vim/vim92/syntax/srec.vim
@@ -2705,14 +2709,14 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0738
+/usr/share/doc/vim-9.2.0747
 /usr/share/vim/vim92/plugin
-/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin

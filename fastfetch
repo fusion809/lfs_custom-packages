@@ -1,4 +1,5 @@
-2.65.1
+2.65.2
+/usr/share/fastfetch/presets/examples
 /usr/share/man/man1
 /usr/share/man/man1/fastfetch.1
 /usr/bin
@@ -16,7 +17,6 @@
 /usr/share/fastfetch/presets/archey.jsonc
 /usr/share/fastfetch/presets/neofetch.jsonc
 /usr/share/fastfetch/presets/all.jsonc
-/usr/share/fastfetch/presets/examples
 /usr/share/fastfetch/presets/examples/6.jsonc
 /usr/share/fastfetch/presets/examples/17.jsonc
 /usr/share/fastfetch/presets/examples/32.jsonc
