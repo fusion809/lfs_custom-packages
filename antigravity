@@ -1,5 +1,6 @@
 2.1.1
 /usr/share/applications/antigravity.desktop
+/usr/bin/antigravity-ide
 /usr/share/antigravity/libGLESv2.so
 /usr/share/antigravity/icudtl.dat
 /usr/share/antigravity/locales/es.pak
