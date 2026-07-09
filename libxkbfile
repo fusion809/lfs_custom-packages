@@ -1,0 +1,13 @@
+1.2.0
+/usr/lib
+/usr/lib/libxkbfile.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xkbfile.pc
+/usr/lib/libxkbfile.so.1.0.2
+/usr/lib/libxkbfile.so.1
+/usr/include/X11/extensions
+/etc
+/etc/ld.so.cache
+/lib/pkgconfig
+/lib/libxkbfile.so.1
+/lib/libxkbfile.so

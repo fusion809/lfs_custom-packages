@@ -1,0 +1,15 @@
+1.0.10
+/usr/lib
+/usr/lib/libFS.la
+/usr/lib/libFS.so.6
+/usr/lib/libFS.so.6.0.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libfs.pc
+/usr/lib/libFS.so
+/usr/lib/libFS.a
+/usr/share/doc
+/usr/share/doc/FSlib.txt
+/usr/include/X11/fonts
+/usr/include/X11/fonts/FSlib.h
+/etc
+/etc/ld.so.cache
