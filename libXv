@@ -1,13 +1,12 @@
 1.0.13
-/usr/include/X11/extensions
-/usr/include/X11/extensions/Xvlib.h
 /usr/lib
-/usr/lib/libXv.la
-/usr/lib/libXv.so
-/usr/lib/libXv.so.1
 /usr/lib/libXv.so.1.0.0
+/usr/lib/libXv.a
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xv.pc
+/usr/lib/libXv.so.1
+/usr/lib/libXv.la
+/usr/lib/libXv.so
 /usr/share/man/man3
 /usr/share/man/man3/Xv.3
 /usr/share/man/man3/XvCreateImage.3
@@ -35,3 +34,7 @@
 /usr/share/man/man3/XvStopVideo.3
 /usr/share/man/man3/XvUngrabPort.3
 /usr/share/man/man3/XvVideoNotify.3
+/usr/include/X11/extensions
+/usr/include/X11/extensions/Xvlib.h
+/etc
+/etc/ld.so.cache
