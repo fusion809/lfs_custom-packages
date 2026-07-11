@@ -1,0 +1,7 @@
+1.5.0
+/usr/bin
+/usr/bin/xkbcomp
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xkbcomp.pc
+/usr/share/man/man1
+/usr/share/man/man1/xkbcomp.1
