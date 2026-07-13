@@ -290,14 +290,9 @@
 /usr/lib/libMagickWand-7.Q16HDRI.so
 /usr/lib/libMagickCore-7.Q16HDRI.so.10.0.3
 /usr/lib/libMagickWand-7.Q16HDRI.so.10.0.3
-/usr/lib/perl5/5.42/site_perl/auto/Image/Magick
-/usr/lib/perl5/5.42/site_perl/auto/Image/Magick/Magick.so
-/usr/lib/perl5/5.42/site_perl/auto/Image/Magick/Q16HDRI
-/usr/lib/perl5/5.42/site_perl/auto/Image/Magick/Q16HDRI/Q16HDRI.so
 /usr/lib/perl5/5.42/site_perl/auto/Image/Magick/.packlist
 /usr/lib/perl5/5.42/core_perl/perllocal.pod
 /usr/lib/libMagickWand-7.Q16HDRI.la
-/usr/share/doc
 /usr/share/doc/ImageMagick-7
 /usr/share/doc/ImageMagick-7/images
 /usr/share/doc/ImageMagick-7/images/color-thresholding-gray.gif
