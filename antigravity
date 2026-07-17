@@ -1,6 +1,5 @@
 2.1.1
 /usr/share/applications/antigravity.desktop
-/usr/bin/antigravity-ide
 /usr/share/antigravity/libGLESv2.so
 /usr/share/antigravity/icudtl.dat
 /usr/share/antigravity/locales/es.pak
@@ -14029,3 +14028,6 @@
 /usr/share/antigravity/chrome-sandbox
 /usr/share/antigravity/libvulkan.so.1
 /usr/share/pixmaps/antigravity.png
+/usr/bin
+/usr/bin/antigravity-ide
+/usr/bin/antigravity

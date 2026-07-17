@@ -2330,3 +2330,5 @@
 /usr/share/code/chrome-sandbox
 /usr/share/code/libvulkan.so.1
 /usr/share/bash-completion/completions/code
+/usr/bin
+/usr/bin/code
