@@ -1,13 +1,12 @@
 1.0.2
-/usr/include/X11/extensions
-/usr/include/X11/extensions/Xpresent.h
 /usr/lib
 /usr/lib/libXpresent.la
-/usr/lib/libXpresent.so
-/usr/lib/libXpresent.so.1
-/usr/lib/libXpresent.so.1.0.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xpresent.pc
+/usr/lib/libXpresent.so.1.0.0
+/usr/lib/libXpresent.a
+/usr/lib/libXpresent.so
+/usr/lib/libXpresent.so.1
 /usr/share/man/man3
 /usr/share/man/man3/Xpresent.3
 /usr/share/man/man3/XPresentFreeInput.3
@@ -18,3 +17,7 @@
 /usr/share/man/man3/XPresentQueryVersion.3
 /usr/share/man/man3/XPresentSelectInput.3
 /usr/share/man/man3/XPresentVersion.3
+/usr/include/X11/extensions
+/usr/include/X11/extensions/Xpresent.h
+/etc
+/etc/ld.so.cache

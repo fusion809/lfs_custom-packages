@@ -1,14 +1,12 @@
 2.3.9
-/usr/include/X11/Xft
-/usr/include/X11/Xft/XftCompat.h
-/usr/include/X11/Xft/Xft.h
 /usr/lib
-/usr/lib/libXft.la
 /usr/lib/libXft.so
 /usr/lib/libXft.so.2
-/usr/lib/libXft.so.2.3.9
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xft.pc
+/usr/lib/libXft.so.2.3.9
+/usr/lib/libXft.la
+/usr/lib/libXft.a
 /usr/share/man/man3
 /usr/share/man/man3/Xft.3
 /usr/share/man/man3/XftCharExists.3
@@ -32,8 +30,8 @@
 /usr/share/man/man3/XftDrawDisplay.3
 /usr/share/man/man3/XftDrawDrawable.3
 /usr/share/man/man3/XftDrawGlyphFontSpec.3
-/usr/share/man/man3/XftDrawGlyphs.3
 /usr/share/man/man3/XftDrawGlyphSpec.3
+/usr/share/man/man3/XftDrawGlyphs.3
 /usr/share/man/man3/XftDrawPicture.3
 /usr/share/man/man3/XftDrawRect.3
 /usr/share/man/man3/XftDrawSetClip.3
@@ -88,3 +86,8 @@
 /usr/share/man/man3/XftTextRenderUtf8.3
 /usr/share/man/man3/XftUnlockFace.3
 /usr/share/man/man3/XftXlfdParse.3
+/usr/include/X11/Xft
+/usr/include/X11/Xft/Xft.h
+/usr/include/X11/Xft/XftCompat.h
+/etc
+/etc/ld.so.cache

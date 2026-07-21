@@ -1247,7 +1247,3 @@
 /usr/include/X11/Xlibint.h
 /etc
 /etc/ld.so.cache
-/etc/profile.d/rustc.sh
-/opt
-/opt/rustc
-/opt/rustc-1.97.0

@@ -1,6 +1,5 @@
 1.5.4
-/usr/bin
-/usr/bin/xkeystone
-/usr/bin/xrandr
 /usr/share/man/man1
 /usr/share/man/man1/xrandr.1
+/usr/bin
+/usr/bin/xrandr

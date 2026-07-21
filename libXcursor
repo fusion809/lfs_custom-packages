@@ -1,13 +1,12 @@
 1.2.3
-/usr/include/X11/Xcursor
-/usr/include/X11/Xcursor/Xcursor.h
 /usr/lib
 /usr/lib/libXcursor.la
-/usr/lib/libXcursor.so
 /usr/lib/libXcursor.so.1
-/usr/lib/libXcursor.so.1.0.2
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xcursor.pc
+/usr/lib/libXcursor.so
+/usr/lib/libXcursor.so.1.0.2
+/usr/lib/libXcursor.a
 /usr/share/man/man3
 /usr/share/man/man3/Xcursor.3
 /usr/share/man/man3/XcursorAnimateCreate.3
@@ -23,6 +22,8 @@
 /usr/share/man/man3/XcursorFileLoadAllImages.3
 /usr/share/man/man3/XcursorFileLoadImage.3
 /usr/share/man/man3/XcursorFileLoadImages.3
+/usr/share/man/man3/XcursorFileSave.3
+/usr/share/man/man3/XcursorFileSaveImages.3
 /usr/share/man/man3/XcursorFilenameLoad.3
 /usr/share/man/man3/XcursorFilenameLoadAllImages.3
 /usr/share/man/man3/XcursorFilenameLoadCursor.3
@@ -31,8 +32,6 @@
 /usr/share/man/man3/XcursorFilenameLoadImages.3
 /usr/share/man/man3/XcursorFilenameSave.3
 /usr/share/man/man3/XcursorFilenameSaveImages.3
-/usr/share/man/man3/XcursorFileSave.3
-/usr/share/man/man3/XcursorFileSaveImages.3
 /usr/share/man/man3/XcursorGetDefaultSize.3
 /usr/share/man/man3/XcursorGetTheme.3
 /usr/share/man/man3/XcursorGetThemeCore.3
@@ -60,8 +59,8 @@
 /usr/share/man/man3/XcursorShapeLoadCursors.3
 /usr/share/man/man3/XcursorShapeLoadImage.3
 /usr/share/man/man3/XcursorShapeLoadImages.3
-/usr/share/man/man3/XcursorSupportsAnim.3
 /usr/share/man/man3/XcursorSupportsARGB.3
+/usr/share/man/man3/XcursorSupportsAnim.3
 /usr/share/man/man3/XcursorTryShapeBitmapCursor.3
 /usr/share/man/man3/XcursorTryShapeCursor.3
 /usr/share/man/man3/XcursorXcFileLoad.3
@@ -69,3 +68,7 @@
 /usr/share/man/man3/XcursorXcFileLoadImage.3
 /usr/share/man/man3/XcursorXcFileLoadImages.3
 /usr/share/man/man3/XcursorXcFileSave.3
+/usr/include/X11/Xcursor
+/usr/include/X11/Xcursor/Xcursor.h
+/etc
+/etc/ld.so.cache
