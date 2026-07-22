@@ -1,4 +1,4 @@
-9.2.0829
+9.2.0838
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1372,6 +1372,7 @@
 /usr/share/vim/vim92/ftplugin/gleam.vim
 /usr/share/vim/vim92/ftplugin/git.vim
 /usr/share/vim/vim92/ftplugin/gitsendemail.vim
+/usr/share/vim/vim92/ftplugin/gitrevlist.vim
 /usr/share/vim/vim92/ftplugin/gitrebase.vim
 /usr/share/vim/vim92/ftplugin/gitignore.vim
 /usr/share/vim/vim92/ftplugin/gitconfig.vim
@@ -2238,6 +2239,7 @@
 /usr/share/vim/vim92/syntax/gkrellmrc.vim
 /usr/share/vim/vim92/syntax/git.vim
 /usr/share/vim/vim92/syntax/gitsendemail.vim
+/usr/share/vim/vim92/syntax/gitrevlist.vim
 /usr/share/vim/vim92/syntax/gitrebase.vim
 /usr/share/vim/vim92/syntax/gitolite.vim
 /usr/share/vim/vim92/syntax/gitignore.vim
@@ -2492,6 +2494,7 @@
 /usr/share/vim/vim92/colors/quiet.vim
 /usr/share/vim/vim92/colors/peachpuff.vim
 /usr/share/vim/vim92/colors/pablo.vim
+/usr/share/vim/vim92/colors/novum.vim
 /usr/share/vim/vim92/colors/murphy.vim
 /usr/share/vim/vim92/colors/morning.vim
 /usr/share/vim/vim92/colors/lunaperche.vim
@@ -2713,13 +2716,16 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0829
+/usr/share/doc/vim-9.2.0838
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/colors
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
