@@ -1003,9 +1003,6 @@
 /usr/share/man/man1/montage.1
 /usr/share/man/man1/animate.1
 /usr/share/man/man1/conjure.1
-/usr/share/man/man3
-/usr/share/man/man3/Image::Magick::Q16HDRI.3
-/usr/share/man/man3/Image::Magick.3
 /usr/bin
 /usr/bin/conjure
 /usr/bin/mogrify
