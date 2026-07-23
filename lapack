@@ -1,4 +1,4 @@
-b11f5bd89dd12e5f00989b7ef8de032f7dffb289
+7a7d7453ed11e765a31c8c8f4f6ef449aad231aa
 /usr/lib/liblapacke.so
 /usr/lib/liblapacke.so.3
 /usr/lib/liblapacke.so.3.12.1
@@ -29,7 +29,7 @@ b11f5bd89dd12e5f00989b7ef8de032f7dffb289
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/lapack-b11f5bd89dd12e5f00989b7ef8de032f7dffb289
+/usr/share/doc/lapack-7a7d7453ed11e765a31c8c8f4f6ef449aad231aa
 /usr/include
 /usr/include/cblas_f77.h
 /usr/include/cblas.h
