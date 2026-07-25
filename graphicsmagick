@@ -9,7 +9,6 @@
 /usr/lib/pkgconfig/GraphicsMagick.pc
 /usr/lib/libGraphicsMagickWand.so
 /usr/lib/libGraphicsMagick++.so
-/usr/lib/GraphicsMagick-1.3.48
 /usr/lib/GraphicsMagick-1.3.48/config
 /usr/lib/GraphicsMagick-1.3.48/config/type.mgk
 /usr/lib/GraphicsMagick-1.3.48/config/type-ghostscript.mgk
@@ -17,7 +16,6 @@
 /usr/lib/GraphicsMagick-1.3.48/config/type-solaris.mgk
 /usr/lib/GraphicsMagick-1.3.48/config/type-windows.mgk
 /usr/lib/GraphicsMagick-1.3.48/config/delegates.mgk
-/usr/lib/GraphicsMagick-1.3.48/modules-Q16
 /usr/lib/GraphicsMagick-1.3.48/modules-Q16/filters
 /usr/lib/GraphicsMagick-1.3.48/modules-Q16/filters/analyze.so
 /usr/lib/GraphicsMagick-1.3.48/modules-Q16/filters/analyze.la
@@ -226,11 +224,7 @@
 /usr/lib/libGraphicsMagickWand.a
 /usr/lib/libGraphicsMagick.so
 /usr/lib/libGraphicsMagick++.so.12.9.0
-/usr/lib/perl5/5.42/vendor_perl/auto/Graphics/Magick
-/usr/lib/perl5/5.42/vendor_perl/auto/Graphics/Magick/Magick.so
 /usr/lib/perl5/5.42/vendor_perl/auto/Graphics/Magick/.packlist
-/usr/lib/perl5/5.42/vendor_perl/Graphics
-/usr/lib/perl5/5.42/vendor_perl/Graphics/Magick.pm
 /usr/lib/perl5/5.42/core_perl/perllocal.pod
 /usr/lib/libGraphicsMagick++.so.12
 /usr/lib/libGraphicsMagick.a

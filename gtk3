@@ -44,6 +44,7 @@
 /usr/lib/girepository-1.0/Gdk-3.0.typelib
 /usr/lib/girepository-1.0/Gtk-3.0.typelib
 /usr/lib/libgailutil-3.so.0.0.0
+/usr/share
 /usr/share/gir-1.0
 /usr/share/gir-1.0/Gtk-3.0.gir
 /usr/share/gir-1.0/GdkX11-3.0.gir

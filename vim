@@ -1,4 +1,4 @@
-9.2.0843
+9.2.0854
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -845,6 +845,7 @@
 /usr/share/vim/vim92/compiler/ifort.vim
 /usr/share/vim/vim92/compiler/icon.vim
 /usr/share/vim/vim92/compiler/icc.vim
+/usr/share/vim/vim92/compiler/iar.vim
 /usr/share/vim/vim92/compiler/hp_acc.vim
 /usr/share/vim/vim92/compiler/hare.vim
 /usr/share/vim/vim92/compiler/haml.vim
@@ -2716,7 +2717,8 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0843
+/usr/share/doc/vim-9.2.0854
+/usr/share/vim/vim92/compiler
 /usr/share/vim/vim92/plugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm

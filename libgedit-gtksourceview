@@ -6,6 +6,7 @@
 /usr/lib/libgedit-gtksourceview-300.so.5
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/GtkSource-300.typelib
+/usr/share
 /usr/share/gir-1.0
 /usr/share/gir-1.0/GtkSource-300.gir
 /usr/share/locale/bs/LC_MESSAGES
@@ -174,6 +175,7 @@
 /usr/share/locale/ca/LC_MESSAGES/libgedit-gtksourceview-300.mo
 /usr/share/locale/or/LC_MESSAGES
 /usr/share/locale/or/LC_MESSAGES/libgedit-gtksourceview-300.mo
+/usr/share/libgedit-gtksourceview-300
 /usr/share/libgedit-gtksourceview-300/styles
 /usr/share/libgedit-gtksourceview-300/language-specs
 /usr/include/libgedit-gtksourceview-300/gtksourceview
