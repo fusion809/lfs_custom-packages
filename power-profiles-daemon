@@ -1,0 +1,15 @@
+0.30
+/usr/lib/systemd/system
+/usr/lib/systemd/system/power-profiles-daemon.service
+/usr/share/polkit-1/actions
+/usr/share/dbus-1/system.d
+/usr/share/dbus-1/system.d/org.freedesktop.UPower.PowerProfiles.conf
+/usr/share/dbus-1/system.d/net.hadess.PowerProfiles.conf
+/usr/share/dbus-1/system-services
+/usr/share/dbus-1/system-services/net.hadess.PowerProfiles.service
+/usr/share/dbus-1/system-services/org.freedesktop.UPower.PowerProfiles.service
+/usr/bin
+/usr/bin/powerprofilesctl
+/usr/libexec
+/usr/libexec/power-profiles-daemon
+/lib/systemd/system
