@@ -5,7 +5,6 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libpkgconf.pc
 /usr/lib/libpkgconf.so
-/usr/share/doc
 /usr/share/doc/pkgconf
 /usr/share/aclocal
 /usr/share/man/man7
