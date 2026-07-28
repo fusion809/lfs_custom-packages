@@ -1,9 +1,9 @@
-3.8.8
+3.8.9
 /usr/lib
+/usr/lib/libarchive.so.13.8.9
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libarchive.pc
 /usr/lib/libarchive.so
-/usr/lib/libarchive.so.13.8.8
 /usr/lib/libarchive.so.13
 /usr/lib/libarchive.la
 /usr/share/man/man1
