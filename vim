@@ -1,4 +1,4 @@
-9.2.0865
+9.2.0870
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -2083,6 +2083,7 @@
 /usr/share/vim/vim92/syntax/master.vim
 /usr/share/vim/vim92/syntax/mason.vim
 /usr/share/vim/vim92/syntax/masm.vim
+/usr/share/vim/vim92/syntax/marko.vim
 /usr/share/vim/vim92/syntax/markdown.vim
 /usr/share/vim/vim92/syntax/maple.vim
 /usr/share/vim/vim92/syntax/man.vim
@@ -2717,13 +2718,14 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0865
+/usr/share/doc/vim-9.2.0870
 /usr/share/vim/vim92/plugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
