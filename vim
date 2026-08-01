@@ -1,4 +1,4 @@
-9.2.0888
+9.2.0894
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -2294,6 +2294,7 @@
 /usr/share/vim/vim92/syntax/elinks.vim
 /usr/share/vim/vim92/syntax/elf.vim
 /usr/share/vim/vim92/syntax/eiffel.vim
+/usr/share/vim/vim92/syntax/ed.vim
 /usr/share/vim/vim92/syntax/editorconfig.vim
 /usr/share/vim/vim92/syntax/edif.vim
 /usr/share/vim/vim92/syntax/ecd.vim
@@ -2718,13 +2719,14 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0888
+/usr/share/doc/vim-9.2.0894
 /usr/share/vim/vim92/plugin
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
