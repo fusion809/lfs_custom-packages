@@ -1,4 +1,4 @@
-f0f3e5f9a87ccc59fab7351d0e2a703d95c4898d
+51b349470b3b26c948d068deb45c9b120a47ed32
 /usr/include/cblas_mangling.h
 /usr/include/cblas_64.h
 /usr/include/cblas.h
@@ -24,7 +24,7 @@ f0f3e5f9a87ccc59fab7351d0e2a703d95c4898d
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/blas-f0f3e5f9a87ccc59fab7351d0e2a703d95c4898d
+/usr/share/doc/blas-51b349470b3b26c948d068deb45c9b120a47ed32
 /usr/include
 /lib/libblas.so.3.12.1
 /lib/libblas.so.3

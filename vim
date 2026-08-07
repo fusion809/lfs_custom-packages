@@ -1,4 +1,4 @@
-9.2.0914
+9.2.0920
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1322,6 +1322,7 @@
 /usr/share/vim/vim92/ftplugin/jsp.vim
 /usr/share/vim/vim92/ftplugin/json.vim
 /usr/share/vim/vim92/ftplugin/jsonnet.vim
+/usr/share/vim/vim92/ftplugin/jsonld.vim
 /usr/share/vim/vim92/ftplugin/jsonc.vim
 /usr/share/vim/vim92/ftplugin/json5.vim
 /usr/share/vim/vim92/ftplugin/jq.vim
@@ -1611,6 +1612,7 @@
 /usr/share/vim/vim92/indent/julia.vim
 /usr/share/vim/vim92/indent/jsp.vim
 /usr/share/vim/vim92/indent/json.vim
+/usr/share/vim/vim92/indent/jsonld.vim
 /usr/share/vim/vim92/indent/jsonc.vim
 /usr/share/vim/vim92/indent/json5.vim
 /usr/share/vim/vim92/indent/java.vim
@@ -2152,6 +2154,7 @@
 /usr/share/vim/vim92/syntax/julia.vim
 /usr/share/vim/vim92/syntax/jsp.vim
 /usr/share/vim/vim92/syntax/json.vim
+/usr/share/vim/vim92/syntax/jsonld.vim
 /usr/share/vim/vim92/syntax/jsonc.vim
 /usr/share/vim/vim92/syntax/json5.vim
 /usr/share/vim/vim92/syntax/jq.vim
@@ -2719,13 +2722,16 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0914
+/usr/share/doc/vim-9.2.0920
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
+/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
