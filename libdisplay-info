@@ -1,0 +1,13 @@
+0.4.0
+/usr/lib
+/usr/lib/libdisplay-info.so.4
+/usr/lib/libdisplay-info.so.0.4.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libdisplay-info.pc
+/usr/lib/libdisplay-info.so
+/usr/bin
+/usr/bin/di-edid-decode
+/usr/include/libdisplay-info
+/lib/pkgconfig
+/lib/libdisplay-info.so.4
+/lib/libdisplay-info.so
