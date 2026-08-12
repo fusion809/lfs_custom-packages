@@ -1,4 +1,4 @@
-9.2.0933
+9.2.0943
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1350,6 +1350,7 @@
 /usr/share/vim/vim92/ftplugin/hostconf.vim
 /usr/share/vim/vim92/ftplugin/hog.vim
 /usr/share/vim/vim92/ftplugin/hlsplaylist.vim
+/usr/share/vim/vim92/ftplugin/hlsl.vim
 /usr/share/vim/vim92/ftplugin/hip.vim
 /usr/share/vim/vim92/ftplugin/hgcommit.vim
 /usr/share/vim/vim92/ftplugin/help.vim
@@ -1624,6 +1625,7 @@
 /usr/share/vim/vim92/indent/html.vim
 /usr/share/vim/vim92/indent/htmldjango.vim
 /usr/share/vim/vim92/indent/hog.vim
+/usr/share/vim/vim92/indent/hlsl.vim
 /usr/share/vim/vim92/indent/hip.vim
 /usr/share/vim/vim92/indent/hcl.vim
 /usr/share/vim/vim92/indent/hare.vim
@@ -2201,6 +2203,7 @@
 /usr/share/vim/vim92/syntax/hollywood.vim
 /usr/share/vim/vim92/syntax/hog.vim
 /usr/share/vim/vim92/syntax/hlsplaylist.vim
+/usr/share/vim/vim92/syntax/hlsl.vim
 /usr/share/vim/vim92/syntax/hitest.vim
 /usr/share/vim/vim92/syntax/hip.vim
 /usr/share/vim/vim92/syntax/hgcommit.vim
@@ -2722,13 +2725,16 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0933
+/usr/share/doc/vim-9.2.0943
 /usr/share/vim/vim92/plugin
+/usr/share/vim/vim92/ftplugin
+/usr/share/vim/vim92/indent
 /usr/share/vim/vim92/macros
 /usr/share/vim/vim92/macros/urm
 /usr/share/vim/vim92/macros/maze
 /usr/share/vim/vim92/macros/life
 /usr/share/vim/vim92/macros/hanoi
+/usr/share/vim/vim92/syntax
 /usr/share/applications
 /usr/share/applications/mimeinfo.cache
 /usr/bin
