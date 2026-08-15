@@ -25,6 +25,8 @@
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
 /usr/share/doc/blas-51b349470b3b26c948d068deb45c9b120a47ed32
+/usr/etc
+/usr/etc/dbus-1
 /usr/include
 /lib/libblas.so.3.12.1
 /lib/libblas.so.3
