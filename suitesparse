@@ -24,11 +24,8 @@
 /usr/lib/pkgconfig/ParU.pc
 /usr/lib/libspex.so.3.2.4
 /usr/lib/librbio.so.4.3.5
-/usr/lib/libgraphblas.so.10
 /usr/lib/libspexpython.so.3.2.4
 /usr/lib/libklu_cholmod.so.2.3.6
-/usr/lib/libparu.so.1
-/usr/lib/libsuitesparseconfig.so.7
 /usr/lib/libparu.so.1.1.2
 /usr/lib/libcamd.so.3.3.5
 /usr/lib/libbtf.so.2.3.3
@@ -74,7 +71,6 @@
 /usr/lib/cmake/LDL/LDLTargets.cmake
 /usr/lib/cmake/LDL/LDLConfigVersion.cmake
 /usr/lib/cmake/LDL/LDLConfig.cmake
-/usr/lib/cmake/SuiteSparse
 /usr/lib/cmake/COLAMD
 /usr/lib/cmake/COLAMD/COLAMDConfig.cmake
 /usr/lib/cmake/COLAMD/COLAMDConfigVersion.cmake
@@ -142,7 +138,6 @@
 /usr/lib/libspqr.so.4.3.6
 /usr/bin
 /usr/bin/suitesparse_mongoose
-/usr/include/suitesparse
 /lib/libsuitesparseconfig.so.7.13.0
 /lib/libsuitesparseconfig.so.7
 /lib/libsuitesparseconfig.so
