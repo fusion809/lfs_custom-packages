@@ -1,6 +1,4 @@
 5.9.2
-/usr/lib/zsh
-/usr/lib/zsh/5.9.2
 /usr/lib/zsh/5.9.2/zsh
 /usr/lib/zsh/5.9.2/zsh/zleparameter.so
 /usr/lib/zsh/5.9.2/zsh/datetime.so
@@ -20,7 +18,6 @@
 /usr/lib/zsh/5.9.2/zsh/system.so
 /usr/lib/zsh/5.9.2/zsh/zutil.so
 /usr/lib/zsh/5.9.2/zsh/clone.so
-/usr/lib/zsh/5.9.2/zsh/pcre.so
 /usr/lib/zsh/5.9.2/zsh/sched.so
 /usr/lib/zsh/5.9.2/zsh/example.so
 /usr/lib/zsh/5.9.2/zsh/mapfile.so
@@ -41,8 +38,6 @@
 /usr/lib/zsh/5.9.2/zsh/compctl.so
 /usr/lib/zsh/5.9.2/zsh/nearcolor.so
 /usr/lib/zsh/5.9.2/zsh/mathfunc.so
-/usr/share/zsh
-/usr/share/zsh/5.9.2
 /usr/share/zsh/5.9.2/scripts
 /usr/share/zsh/5.9.2/scripts/newuser
 /usr/share/zsh/5.9.2/help
@@ -1419,4 +1414,3 @@
 /usr/bin
 /usr/bin/zsh-5.9.2
 /usr/bin/zsh
-/usr/bin/zsh.old
