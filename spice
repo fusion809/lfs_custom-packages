@@ -5,8 +5,6 @@
 /usr/lib/libspice-server.so.1
 /usr/lib/libspice-server.so
 /usr/lib/libspice-server.so.1.15.0
-/usr/share/doc
-/usr/share/doc/spice-0.16.0
 /usr/include/spice-server
 /usr/include/spice-server/spice-qxl.h
 /usr/include/spice-server/spice-input.h
