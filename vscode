@@ -1,4 +1,4 @@
-1.133.0
+1.134.0
 /usr/share
 /usr/share/mime/packages/code-workspace.xml
 /usr/share/applications/code.desktop
@@ -1203,6 +1203,7 @@
 /usr/share/code/resources/app/extensions/markdown-language-features/schemas/package.schema.json
 /usr/share/code/resources/app/extensions/markdown-language-features/README.md
 /usr/share/code/resources/app/extensions/markdown-language-features/markdown-editor-src
+/usr/share/code/resources/app/extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts
 /usr/share/code/resources/app/extensions/markdown-language-features/markdown-editor-src/markdownEditor.css
 /usr/share/code/resources/app/extensions/markdown-language-features/markdown-editor-src/tsconfig.json
 /usr/share/code/resources/app/extensions/markdown-language-features/markdown-editor-src/editor.ts
@@ -1755,12 +1756,13 @@
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-stable-tracking-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-stable-124.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-stable-tracking-96.spritesheet.png
-/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-stable-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-stable-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-splat-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.spritesheet.png
@@ -1789,9 +1791,11 @@
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-splat-stable-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-insiders-tracking-96.spritesheet.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-typing-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-insiders-124.spritesheet.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-96.png
@@ -1799,6 +1803,7 @@
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-typing-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-yapping-stable-96.spritesheet.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-tracking-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-typing-insiders-96.png
@@ -1813,10 +1818,10 @@
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-stable-tracking-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.spritesheet.png
-/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-insiders-tracking-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-stable-96.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-stable-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.spritesheet.png
@@ -2937,7 +2942,6 @@
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64/wxc-exec.exe
-/usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64/wslcsdk.dll
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64/wxc-host-prep.exe
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64/wxc-test-proxy.exe
 /usr/share/code/resources/app/node_modules.asar.unpacked/@microsoft/mxc-sdk/bin/x64/lxc-exec
