@@ -41,9 +41,6 @@
 /usr/lib/modules/7.2.0/kernel/net/8021q/8021q.ko.zst
 /usr/lib/modules/7.2.0/kernel/net/wireless
 /usr/lib/modules/7.2.0/kernel/net/wireless/cfg80211.ko.zst
-/usr/lib/modules/7.2.0/kernel/fs
-/usr/lib/modules/7.2.0/kernel/fs/isofs
-/usr/lib/modules/7.2.0/kernel/fs/isofs/isofs.ko.zst
 /usr/lib/modules/7.2.0/kernel/drivers
 /usr/lib/modules/7.2.0/kernel/drivers/cdrom
 /usr/lib/modules/7.2.0/kernel/drivers/cdrom/cdrom.ko.zst
@@ -11413,11 +11410,13 @@
 /usr/share/doc/linux-7.2.0/locking/locktypes.rst
 /usr/share/doc/linux-7.2.0/locking/index.rst
 /usr/share/doc/linux-7.2.0/locking/lockstat.rst
-/boot/vmlinuz-7.2.0-lfs-r13.0-189
+/boot
 /boot/grub
 /boot/grub/grub.cfg
 /boot/System.map-7.2.0
 /boot/config-7.2.0
+/boot/vmlinuz-7.2.0-lfs-r13.0-191
+/boot/vmlinuz-7.2.0-lfs-r13.0-189
 /boot/grub/i386-pc/div_test.mod
 /boot/grub/i386-pc/terminal.mod
 /boot/grub/i386-pc/fshelp.mod
@@ -11794,7 +11793,6 @@
 /lib/modules/7.2.0/kernel/net/vmw_vsock/vmw_vsock_virtio_transport.ko.zst
 /lib/modules/7.2.0/kernel/net/8021q/8021q.ko.zst
 /lib/modules/7.2.0/kernel/net/wireless/cfg80211.ko.zst
-/lib/modules/7.2.0/kernel/fs/isofs/isofs.ko.zst
 /lib/modules/7.2.0/kernel/drivers/cdrom/cdrom.ko.zst
 /lib/modules/7.2.0/kernel/drivers/watchdog/iTCO_wdt.ko.zst
 /lib/modules/7.2.0/kernel/drivers/virt/coco/tdx-host/tdx-host.ko.zst
