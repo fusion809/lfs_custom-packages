@@ -1,4 +1,4 @@
-3.0.5
+3.0.6
 /usr/lib
 /usr/lib/libpkgconf.so.8
 /usr/lib/libpkgconf.so.8.0.0
@@ -6,8 +6,7 @@
 /usr/lib/pkgconfig/libpkgconf.pc
 /usr/lib/libpkgconf.so
 /usr/share/doc
-/usr/share/doc/pkgconf-3.0.5
-/usr/share/doc/pkgconf-3.0.5/pkgconf
+/usr/share/doc/pkgconf-3.0.6
 /usr/share/aclocal
 /usr/share/man/man7
 /usr/share/man/man1
