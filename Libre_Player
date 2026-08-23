@@ -1,9 +1,13 @@
-622048f7b8caf1e25df0413d64d46ab13c7d7aab
+6bd5b428790a02d238f35c3bb34738b0109f20d1
 /usr/share/applications
 /usr/share/applications/Libre_Player.desktop
-/usr/share/applications/libreplayer.desktop
-/usr/share/icons/hicolor/512x512/apps
 /usr/bin
 /usr/bin/LibrePlayer
+/etc
+/etc/lfs-release
+/etc/lsb-release
+/etc/os-release
+/etc/blfs-release
 /bin/LibrePlayer
+/usr/share/applications/libreplayer.desktop
 /usr/share/icons/hicolor/512x512/apps/libreplayer.png
