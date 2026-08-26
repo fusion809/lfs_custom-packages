@@ -1,4 +1,4 @@
-1.134.0
+1.135.0
 /usr/share
 /usr/share/mime/packages/code-workspace.xml
 /usr/share/applications/code.desktop
@@ -1821,6 +1821,18 @@
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-insiders-tracking-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.spritesheet.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-stable-96.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/firefighter-helmet.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/sailor-hat.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/crown.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/cowboy-hat.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/artist-beret.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/grand-top-hat-monocle.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/construction-hard-hat.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/full-size-spinner-hat.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/viking-helmet.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/leaning-party-hat.png
+/usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/baseball-cap.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-96.png
 /usr/share/code/resources/app/out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-stable-96.spritesheet.png

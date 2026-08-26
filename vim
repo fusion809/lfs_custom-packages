@@ -1,6 +1,6 @@
-9.2.1011
+9.2.1013
 /usr/share/doc
-/usr/share/doc/vim-9.2.1011
+/usr/share/doc/vim-9.2.1012
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
