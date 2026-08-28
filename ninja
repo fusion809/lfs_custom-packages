@@ -1,0 +1,7 @@
+1.13.2
+/usr/share/zsh/site-functions
+/usr/share/zsh/site-functions/_ninja
+/usr/share/bash-completion/completions
+/usr/share/bash-completion/completions/ninja
+/usr/bin
+/usr/bin/ninja
