@@ -1,6 +1,15 @@
 1.29.1
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/py3cairo.pc
+/usr/lib/python3.14/site-packages/cairo
+/usr/lib/python3.14/site-packages/cairo/_cairo.cpython-314-x86_64-linux-gnu.so
+/usr/lib/python3.14/site-packages/cairo/__pycache__
+/usr/lib/python3.14/site-packages/cairo/__pycache__/__init__.cpython-314.pyc
+/usr/lib/python3.14/site-packages/cairo/include
+/usr/lib/python3.14/site-packages/pycairo-1.29.1.dist-info
+/usr/lib/python3.14/site-packages/pycairo-1.29.1.dist-info/METADATA
+/usr/include/pycairo
 /lib/python3.14/site-packages/cairo
-/usr --buildtype=release/include/pycairo
 /lib/python3.14/site-packages/pycairo-1.29.1.dist-info
 /lib/python3.14/site-packages/cairo/include
 /lib/pkgconfig
