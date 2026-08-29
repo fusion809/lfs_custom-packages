@@ -1,0 +1,6 @@
+1.29.1
+/lib/python3.14/site-packages/cairo
+/usr --buildtype=release/include/pycairo
+/lib/python3.14/site-packages/pycairo-1.29.1.dist-info
+/lib/python3.14/site-packages/cairo/include
+/lib/pkgconfig
