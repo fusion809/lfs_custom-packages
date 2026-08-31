@@ -1,6 +1,6 @@
-9.2.1021
+9.2.1025
 /usr/share/doc
-/usr/share/doc/vim-9.2.1021
+/usr/share/doc/vim-9.2.1025
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -786,7 +786,6 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
-/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -1573,7 +1572,6 @@
 /usr/share/vim/vim92/colors/slate.vim
 /usr/share/vim/vim92/colors/habamax.vim
 /usr/share/vim/vim92/filetype.vim
-/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/ora.vim
 /usr/share/vim/vim92/syntax/xhtml.vim
 /usr/share/vim/vim92/syntax/usserverlog.vim
