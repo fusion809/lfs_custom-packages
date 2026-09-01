@@ -1,6 +1,5 @@
-23.1.0
+23.1.1
 /usr/lib
-/usr/lib/libLLVMSPIRVLib.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/LLVMSPIRVLib.pc
 /usr/lib/libLLVMSPIRVLib.so.23.1
