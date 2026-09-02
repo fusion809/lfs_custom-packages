@@ -43,6 +43,9 @@
 /usr/lib/modules/7.2.2/kernel/net/wireless
 /usr/lib/modules/7.2.2/kernel/net/wireless/cfg80211.ko.zst
 /usr/lib/modules/7.2.2/kernel/drivers
+/usr/lib/modules/7.2.2/kernel/drivers/block
+/usr/lib/modules/7.2.2/kernel/drivers/block/zram
+/usr/lib/modules/7.2.2/kernel/drivers/block/zram/zram.ko.zst
 /usr/lib/modules/7.2.2/kernel/drivers/cdrom
 /usr/lib/modules/7.2.2/kernel/drivers/cdrom/cdrom.ko.zst
 /usr/lib/modules/7.2.2/kernel/drivers/watchdog
