@@ -1,0 +1,16 @@
+1.0.1
+/usr/lib
+/usr/lib/liblmdb.so.1.0
+/usr/lib/liblmdb.so
+/usr/lib/liblmdb.so.1
+/usr/share/man/man1/mdb_copy.1
+/usr/share/man/man1/mdb_load.1
+/usr/share/man/man1/mdb_stat.1
+/usr/share/man/man1/mdb_drop.1
+/usr/share/man/man1/mdb_dump.1
+/usr/bin/mdb_stat
+/usr/bin/mdb_load
+/usr/bin/mdb_copy
+/usr/bin/mdb_dump
+/usr/bin/mdb_drop
+/usr/include/lmdb.h
