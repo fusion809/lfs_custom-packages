@@ -1,0 +1,12 @@
+3.0.2
+/usr/include
+/usr/include/assuan.h
+/usr/lib
+/usr/lib/libassuan.la
+/usr/lib/libassuan.so
+/usr/lib/libassuan.so.9
+/usr/lib/libassuan.so.9.0.2
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libassuan.pc
+/usr/share/aclocal
+/usr/share/aclocal/libassuan.m4
