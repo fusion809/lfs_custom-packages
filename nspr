@@ -1,0 +1,7 @@
+4.40
+/usr/lib/libplds4.so
+/usr/lib/libplc4.so
+/usr/lib/libnspr4.so
+/usr/lib/pkgconfig/nspr.pc
+/usr/bin/nspr-config
+/usr/include/nspr
