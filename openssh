@@ -1,6 +1,10 @@
 10.5p1
 /usr/sbin
 /usr/sbin/sshd
+/usr/lib/systemd/system
+/usr/lib/systemd/system/sshd.socket
+/usr/lib/systemd/system/sshd.service
+/usr/lib/systemd/system/sshd@.service
 /usr/share/doc/openssh-10.5p1
 /usr/share/doc/openssh-10.5p1/README.privsep
 /usr/share/doc/openssh-10.5p1/LICENCE
