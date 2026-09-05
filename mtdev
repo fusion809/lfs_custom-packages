@@ -1,0 +1,14 @@
+1.1.7
+/usr/lib
+/usr/lib/libmtdev.la
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/mtdev.pc
+/usr/lib/libmtdev.so.1.0.0
+/usr/lib/libmtdev.so.1
+/usr/lib/libmtdev.so
+/usr/bin
+/usr/bin/mtdev-test
+/usr/include
+/usr/include/mtdev.h
+/usr/include/mtdev-mapping.h
+/usr/include/mtdev-plumbing.h
