@@ -1,12 +1,15 @@
-1.23.3
+1.23.4
 /usr/lib
+/usr/lib/libheif.so.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libheif.pc
 /usr/lib/cmake/libheif
 /usr/lib/cmake/libheif/libheif-config-version.cmake
 /usr/lib/cmake/libheif/libheif-config.cmake
 /usr/lib/cmake/libheif/libheif-config-release.cmake
-/usr/lib/libheif.so.1.23.3
+/usr/lib/libheif.so.1.23.4
+/usr/share/thumbnailers
+/usr/share/man/man1
 /usr/bin
 /usr/bin/heif-dec
 /usr/bin/heif-thumbnailer
@@ -27,7 +30,7 @@
 /bin/heif-thumbnailer
 /usr/share/man/man1/heif-thumbnailer.1
 /bin/heif-view
-/lib/libheif.so.1.23.3
+/lib/libheif.so.1.23.4
 /lib/libheif.so.1
 /lib/libheif.so
 /usr/include/libheif/heif.h
