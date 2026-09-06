@@ -1,0 +1,14 @@
+49.0
+/usr/share/pkgconfig
+/usr/share/pkgconfig/yelp-xsl.pc
+/usr/share/yelp-xsl/js
+/usr/share/yelp-xsl/xslt/common
+/usr/share/yelp-xsl/xslt/common/css
+/usr/share/yelp-xsl/xslt/common/domains
+/usr/share/yelp-xsl/xslt/common/domains/yelp-xsl.xml
+/usr/share/yelp-xsl/xslt/common/icons
+/usr/share/yelp-xsl/xslt/docbook/common
+/usr/share/yelp-xsl/xslt/docbook/html
+/usr/share/yelp-xsl/xslt/mallard/cache
+/usr/share/yelp-xsl/xslt/mallard/common
+/usr/share/yelp-xsl/xslt/mallard/html
