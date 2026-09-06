@@ -1,0 +1,11 @@
+6.7.4
+/etc
+/etc/xdg
+/etc/xdg/autostart
+/etc/xdg/autostart/kwrited-autostart.desktop
+/usr
+/usr/bin
+/usr/bin/kwrited
+/usr/share
+/usr/share/knotifications6
+/usr/share/knotifications6/kwrited.notifyrc
