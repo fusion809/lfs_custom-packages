@@ -1,5 +1,8 @@
 2.62.3
 /usr/lib
+/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders.cache
+/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders
+/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader_svg.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/librsvg-2.0.pc
 /usr/lib/librsvg-2.so.2
@@ -140,6 +143,8 @@
 /usr/share/vala/vapi
 /usr/share/vala/vapi/librsvg-2.0.vapi
 /usr/share/vala/vapi/librsvg-2.0.deps
+/usr/share/thumbnailers
+/usr/share/thumbnailers/librsvg.thumbnailer
 /usr/share/man/man1
 /usr/share/man/man1/rsvg-convert.1
 /usr/bin
@@ -148,6 +153,7 @@
 /usr/include/librsvg-2.0/librsvg/rsvg-version.h
 /usr/include/librsvg-2.0/librsvg/rsvg-features.h
 /lib/girepository-1.0
+/lib/gdk-pixbuf-2.0/2.10.0/loaders
 /lib/pkgconfig
 /lib/librsvg-2.so.2
 /lib/librsvg-2.so
