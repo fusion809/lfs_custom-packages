@@ -1,0 +1,11 @@
+1.0.1
+/usr/lib
+/usr/lib/libxcb-errors.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xcb-errors.pc
+/usr/lib/libxcb-errors.so.0.0.0
+/usr/lib/libxcb-errors.la
+/usr/lib/libxcb-errors.a
+/usr/lib/libxcb-errors.so.0
+/usr/include/xcb
+/usr/include/xcb/xcb_errors.h
