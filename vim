@@ -1,6 +1,6 @@
-9.2.1037
+9.2.1046
 /usr/share/doc
-/usr/share/doc/vim-9.2.1037
+/usr/share/doc/vim-9.2.1046
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -786,6 +786,7 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -930,6 +931,7 @@
 /usr/share/vim/vim92/ftplugin/xf86conf.vim
 /usr/share/vim/vim92/ftplugin/opencl.vim
 /usr/share/vim/vim92/ftplugin/eterm.vim
+/usr/share/vim/vim92/ftplugin/robot.vim
 /usr/share/vim/vim92/ftplugin/eruby.vim
 /usr/share/vim/vim92/ftplugin/solidity.vim
 /usr/share/vim/vim92/ftplugin/skhd.vim
