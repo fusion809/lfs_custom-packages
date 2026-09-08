@@ -1,0 +1,10 @@
+7.0.0
+/usr/include/dvdnav
+/usr/include/dvdnav/version.h
+/usr/lib
+/usr/lib/libdvdnav.so
+/usr/lib/libdvdnav.so.4
+/usr/lib/libdvdnav.so.4.4.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/dvdnav.pc
+/usr/share/doc/libdvdnav-7.0.0
