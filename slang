@@ -1,0 +1,14 @@
+16.2.0
+/usr/bin
+/usr/bin/glslang
+/usr/bin/glslangValidator
+/usr/include/glslang
+/usr/lib
+/usr/lib/cmake/glslang
+/usr/lib/cmake/glslang/glslang-config-version.cmake
+/usr/lib/cmake/glslang/glslang-config.cmake
+/usr/lib/cmake/glslang/glslang-targets-release.cmake
+/usr/lib/cmake/glslang/glslang-targets.cmake
+/usr/lib/libSPIRV.so.16.2.0
+/usr/lib/libglslang-default-resource-limits.so.16.2.0
+/usr/lib/libglslang.so.16.2.0
