@@ -1,0 +1,11 @@
+3.8.0
+/usr/lib
+/usr/lib/cmake/FreeGLUT
+/usr/lib/cmake/FreeGLUT/FreeGLUTConfig.cmake
+/usr/lib/cmake/FreeGLUT/FreeGLUTConfigVersion.cmake
+/usr/lib/cmake/FreeGLUT/FreeGLUTTargets-release.cmake
+/usr/lib/cmake/FreeGLUT/FreeGLUTTargets.cmake
+/usr/lib/libglut.so.3.13.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/glut.pc
+/usr/share/man/man3
