@@ -413,9 +413,8 @@
 /usr/lib/node_modules/npm/man/man7
 /usr/lib/node_modules/npm/man/man1
 /usr/lib/node_modules/npm/man/man5
-/usr/share/doc
 /usr/share/doc/node
-/usr/share/doc/node-26.8.1
+/usr/share/doc/node/node
 /usr/share/man/man1
 /usr/bin
 /usr/bin/node
