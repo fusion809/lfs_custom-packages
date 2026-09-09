@@ -1,4 +1,4 @@
-23.1.0
+23.1.1
 /etc/clang/clang++.cfg
 /etc/clang/clang.cfg
 /usr
@@ -4216,7 +4216,7 @@
 /usr/lib/libclangSerialization.a
 /usr/lib/libclang.so
 /usr/lib/libclang.so.23.1
-/usr/lib/libclang.so.23.1.0
+/usr/lib/libclang.so.23.1.1
 /usr/lib/libclangStaticAnalyzerCheckers.a
 /usr/lib/libclangStaticAnalyzerCore.a
 /usr/lib/libclangStaticAnalyzerFrontend.a
