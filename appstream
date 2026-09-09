@@ -1,10 +1,16 @@
 1.2.0
 /usr/lib
+/usr/lib/libAppStreamQt.so.3
 /usr/lib/libappstream.so.1.2.0
+/usr/lib/libAppStreamQt.so
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/appstream.pc
 /usr/lib/libappstream.so
 /usr/lib/libappstream.so.5
+/usr/lib/libAppStreamQt.so.1.2.0
+/usr/lib/cmake/AppStreamQt
+/usr/lib/cmake/AppStreamQt/AppStreamQtConfig.cmake
+/usr/lib/cmake/AppStreamQt/AppStreamQtConfigVersion.cmake
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/AppStream-1.0.typelib
 /usr/share/doc
@@ -132,6 +138,8 @@
 /usr/include/appstream
 /usr/include/appstream/as-version.h
 /usr/include/appstream/as-enum-types.h
+/usr/include/AppStreamQt
+/usr/include/AppStreamQt/version.h
 /usr/share/doc/appstream/html
 /usr/share/doc/appstream/html/images
 /usr/share/doc/appstream/html/static/css
@@ -139,5 +147,8 @@
 /usr/share/doc/appstream/html/static/js
 /lib/girepository-1.0
 /lib/pkgconfig
+/lib/cmake/AppStreamQt
 /lib/libappstream.so.5
 /lib/libappstream.so
+/lib/libAppStreamQt.so.3
+/lib/libAppStreamQt.so

@@ -1,0 +1,9 @@
+0.6.1
+/usr/lib/cmake/Corrosion
+/usr/lib/cmake/Corrosion/CorrosionConfigVersion.cmake
+/usr/lib/cmake/Corrosion/CorrosionConfig.cmake
+/lib/cmake/Corrosion/CorrosionConfig.cmake
+/lib/cmake/Corrosion/CorrosionConfigVersion.cmake
+/usr/share/cmake/Corrosion.cmake
+/usr/share/cmake/CorrosionGenerator.cmake
+/usr/share/cmake/FindRust.cmake
