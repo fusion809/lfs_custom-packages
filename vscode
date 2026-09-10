@@ -1,4 +1,4 @@
-1.136.2
+1.137.0
 /usr/share
 /usr/share/mime/packages/code-workspace.xml
 /usr/share/applications/code.desktop
@@ -3051,3 +3051,11 @@
 /usr/share/bash-completion/completions/code
 /usr/bin
 /usr/bin/code
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/banner.json.gz
+/usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/animations/app-install-nudge.json.gz

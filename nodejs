@@ -1,4 +1,4 @@
-26.8.1
+26.8.2
 /usr/lib/node_modules/npm
 /usr/lib/node_modules/npm/lib
 /usr/lib/node_modules/npm/lib/utils
@@ -413,8 +413,9 @@
 /usr/lib/node_modules/npm/man/man7
 /usr/lib/node_modules/npm/man/man1
 /usr/lib/node_modules/npm/man/man5
+/usr/share/doc
 /usr/share/doc/node
-/usr/share/doc/node/node
+/usr/share/doc/node-26.8.2
 /usr/share/man/man1
 /usr/bin
 /usr/bin/node

@@ -1,6 +1,6 @@
-9.2.1054
+9.2.1061
 /usr/share/doc
-/usr/share/doc/vim-9.2.1054
+/usr/share/doc/vim-9.2.1061
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -1573,7 +1573,6 @@
 /usr/share/vim/vim92/colors/slate.vim
 /usr/share/vim/vim92/colors/habamax.vim
 /usr/share/vim/vim92/filetype.vim
-/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/ora.vim
 /usr/share/vim/vim92/syntax/xhtml.vim
 /usr/share/vim/vim92/syntax/usserverlog.vim

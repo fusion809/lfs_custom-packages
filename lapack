@@ -1,4 +1,4 @@
-64ca1efc5a7dd7e5a899af3f1c75a2c4eca93c60
+9eaccc1f62c78c5461b2b201bcb69a2835b2c815
 /usr/lib/liblapacke.so
 /usr/lib/liblapacke.so.3
 /usr/lib/liblapacke.so.3.12.1
@@ -29,15 +29,7 @@
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/lapack-64ca1efc5a7dd7e5a899af3f1c75a2c4eca93c60
-/usr/share/pkgconfig
-/usr/share/pkgconfig/hwdata.pc
-/usr/share/hwdata
-/usr/share/hwdata/pci.ids
-/usr/share/hwdata/oui.txt
-/usr/share/hwdata/pnp.ids
-/usr/share/hwdata/iab.txt
-/usr/share/hwdata/usb.ids
+/usr/share/doc/lapack-9eaccc1f62c78c5461b2b201bcb69a2835b2c815
 /usr/include
 /usr/include/cblas_f77.h
 /usr/include/cblas.h
