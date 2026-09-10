@@ -1,11 +1,10 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6Codecs.so.6
 /usr/lib/cmake/KF6Codecs
-/usr/lib/cmake/KF6Codecs/KF6CodecsTargets-noconfig.cmake
 /usr/lib/cmake/KF6Codecs/KF6CodecsTargets.cmake
 /usr/lib/cmake/KF6Codecs/KF6CodecsConfigVersion.cmake
 /usr/lib/cmake/KF6Codecs/KF6CodecsConfig.cmake
+/usr/lib/cmake/KF6Codecs/KF6CodecsTargets-release.cmake
 /usr/lib/libKF6Codecs.so.6.30.0
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/kcodecs6_qt.qm
@@ -231,4 +230,4 @@
 /lib/cmake/KF6Codecs/KF6CodecsConfig.cmake
 /lib/cmake/KF6Codecs/KF6CodecsConfigVersion.cmake
 /lib/cmake/KF6Codecs/KF6CodecsTargets.cmake
-/lib/cmake/KF6Codecs/KF6CodecsTargets-noconfig.cmake
+/lib/cmake/KF6Codecs/KF6CodecsTargets-release.cmake

@@ -7,12 +7,11 @@
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_defaultfilters.so
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_scriptabletags.so
 /usr/lib/libKF6TextTemplate.so.6.30.0
-/usr/lib/libKF6TextTemplate.so.6
 /usr/lib/cmake/KF6TextTemplate
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateConfigVersion.cmake
-/usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-noconfig.cmake
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateConfig.cmake
+/usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-release.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/ktexttemplate.categories
 /usr/include/KF6/KTextTemplate
@@ -79,4 +78,4 @@
 /lib/cmake/KF6TextTemplate/KF6TextTemplateConfigVersion.cmake
 /lib/cmake/KF6TextTemplate/KF6TextTemplateMacros.cmake
 /lib/cmake/KF6TextTemplate/KF6TextTemplateTargets.cmake
-/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-noconfig.cmake
+/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-release.cmake

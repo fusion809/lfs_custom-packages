@@ -1,12 +1,11 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6DBusAddons.so.6.30.0
-/usr/lib/libKF6DBusAddons.so.6
 /usr/lib/cmake/KF6DBusAddons
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfigVersion.cmake
-/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets-noconfig.cmake
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets.cmake
 /usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsConfig.cmake
+/usr/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets-release.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/kdbusaddons6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -152,4 +151,4 @@
 /lib/cmake/KF6DBusAddons/KF6DBusAddonsMacros.cmake
 /lib/cmake/KF6DBusAddons/KF6dbus.service.in
 /lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets.cmake
-/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets-noconfig.cmake
+/lib/cmake/KF6DBusAddons/KF6DBusAddonsTargets-release.cmake

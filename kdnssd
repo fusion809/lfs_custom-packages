@@ -2,11 +2,10 @@
 /usr/lib
 /usr/lib/libKF6DNSSD.so.6.30.0
 /usr/lib/cmake/KF6DNSSD
-/usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-noconfig.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDConfigVersion.cmake
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDConfig.cmake
-/usr/lib/libKF6DNSSD.so.6
+/usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-release.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/kdnssd6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -240,4 +239,4 @@
 /lib/cmake/KF6DNSSD/KF6DNSSDConfig.cmake
 /lib/cmake/KF6DNSSD/KF6DNSSDConfigVersion.cmake
 /lib/cmake/KF6DNSSD/KF6DNSSDTargets.cmake
-/lib/cmake/KF6DNSSD/KF6DNSSDTargets-noconfig.cmake
+/lib/cmake/KF6DNSSD/KF6DNSSDTargets-release.cmake

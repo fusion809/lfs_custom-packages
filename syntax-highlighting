@@ -1,6 +1,5 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6SyntaxHighlighting.so.6
 /usr/lib/libKF6SyntaxHighlighting.so.6.30.0
 /usr/lib/qml/org/kde/syntaxhighlighting
 /usr/lib/qml/org/kde/syntaxhighlighting/kquicksyntaxhighlightingplugin.qmltypes
@@ -11,7 +10,7 @@
 /usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingConfigVersion.cmake
 /usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingConfig.cmake
 /usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets.cmake
-/usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets-noconfig.cmake
+/usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets-release.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/syntaxhighlighting6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -226,4 +225,4 @@
 /lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingConfig.cmake
 /lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingConfigVersion.cmake
 /lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets.cmake
-/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets-noconfig.cmake
+/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets-release.cmake

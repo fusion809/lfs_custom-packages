@@ -2,12 +2,11 @@
 /usr/lib
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kplotting6widgets.so
-/usr/lib/libKF6Plotting.so.6
 /usr/lib/libKF6Plotting.so.6.30.0
 /usr/lib/cmake/KF6Plotting
-/usr/lib/cmake/KF6Plotting/KF6PlottingTargets-noconfig.cmake
 /usr/lib/cmake/KF6Plotting/KF6PlottingConfigVersion.cmake
 /usr/lib/cmake/KF6Plotting/KF6PlottingTargets.cmake
+/usr/lib/cmake/KF6Plotting/KF6PlottingTargets-release.cmake
 /usr/lib/cmake/KF6Plotting/KF6PlottingConfig.cmake
 /usr/include/KF6/KPlotting
 /usr/include/KF6/KPlotting/KPlotObject
@@ -27,4 +26,4 @@
 /lib/cmake/KF6Plotting/KF6PlottingConfig.cmake
 /lib/cmake/KF6Plotting/KF6PlottingConfigVersion.cmake
 /lib/cmake/KF6Plotting/KF6PlottingTargets.cmake
-/lib/cmake/KF6Plotting/KF6PlottingTargets-noconfig.cmake
+/lib/cmake/KF6Plotting/KF6PlottingTargets-release.cmake

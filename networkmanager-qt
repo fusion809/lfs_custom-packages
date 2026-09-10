@@ -1,7 +1,6 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6NetworkManagerQt.so.6.30.0
-/usr/lib/libKF6NetworkManagerQt.so.6
 /usr/lib/qml/org/kde/networkmanager
 /usr/lib/qml/org/kde/networkmanager/libnetworkmanagerqtqml.so
 /usr/lib/qml/org/kde/networkmanager/kde-qmlmodule.version
@@ -10,8 +9,8 @@
 /usr/lib/cmake/KF6NetworkManagerQt
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets.cmake
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfigVersion.cmake
-/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets-noconfig.cmake
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfig.cmake
+/usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets-release.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/networkmanagerqt.renamecategories
 /usr/share/qlogging-categories6/networkmanagerqt.categories
@@ -172,4 +171,4 @@
 /lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfig.cmake
 /lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfigVersion.cmake
 /lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets.cmake
-/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets-noconfig.cmake
+/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets-release.cmake

@@ -7,8 +7,7 @@
 /usr/lib/cmake/KF6Attica/KF6AtticaTargets.cmake
 /usr/lib/cmake/KF6Attica/KF6AtticaConfigVersion.cmake
 /usr/lib/cmake/KF6Attica/KF6AtticaConfig.cmake
-/usr/lib/cmake/KF6Attica/KF6AtticaTargets-noconfig.cmake
-/usr/lib/libKF6Attica.so.6
+/usr/lib/cmake/KF6Attica/KF6AtticaTargets-release.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/attica.categories
 /usr/share/qlogging-categories6/attica.renamecategories
@@ -106,4 +105,4 @@
 /lib/cmake/KF6Attica/KF6AtticaConfig.cmake
 /lib/cmake/KF6Attica/KF6AtticaConfigVersion.cmake
 /lib/cmake/KF6Attica/KF6AtticaTargets.cmake
-/lib/cmake/KF6Attica/KF6AtticaTargets-noconfig.cmake
+/lib/cmake/KF6Attica/KF6AtticaTargets-release.cmake

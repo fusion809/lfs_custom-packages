@@ -1,8 +1,6 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6Prison.so.6.30.0
-/usr/lib/libKF6Prison.so.6
-/usr/lib/libKF6PrisonScanner.so.6
 /usr/lib/libKF6PrisonScanner.so.6.30.0
 /usr/lib/qml/org/kde/prison
 /usr/lib/qml/org/kde/prison/kde-qmlmodule.version
@@ -16,8 +14,8 @@
 /usr/lib/qml/org/kde/prison/prisonquickplugin.qmltypes
 /usr/lib/cmake/KF6Prison
 /usr/lib/cmake/KF6Prison/KF6PrisonConfig.cmake
-/usr/lib/cmake/KF6Prison/KF6PrisonTargets-noconfig.cmake
 /usr/lib/cmake/KF6Prison/KF6PrisonTargets.cmake
+/usr/lib/cmake/KF6Prison/KF6PrisonTargets-release.cmake
 /usr/lib/cmake/KF6Prison/KF6PrisonConfigVersion.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/prison.categories
@@ -59,4 +57,4 @@
 /lib/cmake/KF6Prison/KF6PrisonConfig.cmake
 /lib/cmake/KF6Prison/KF6PrisonConfigVersion.cmake
 /lib/cmake/KF6Prison/KF6PrisonTargets.cmake
-/lib/cmake/KF6Prison/KF6PrisonTargets-noconfig.cmake
+/lib/cmake/KF6Prison/KF6PrisonTargets-release.cmake

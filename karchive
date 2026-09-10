@@ -3,12 +3,11 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Archive.pc
 /usr/lib/libKF6Archive.so.6.30.0
-/usr/lib/libKF6Archive.so.6
 /usr/lib/cmake/KF6Archive
+/usr/lib/cmake/KF6Archive/KF6ArchiveTargets-release.cmake
 /usr/lib/cmake/KF6Archive/KF6ArchiveConfigVersion.cmake
 /usr/lib/cmake/KF6Archive/KF6ArchiveTargets.cmake
 /usr/lib/cmake/KF6Archive/KF6ArchiveConfig.cmake
-/usr/lib/cmake/KF6Archive/KF6ArchiveTargets-noconfig.cmake
 /usr/share/locale/en_GB/LC_MESSAGES
 /usr/share/locale/en_GB/LC_MESSAGES/karchive6_qt.qm
 /usr/share/locale/pa/LC_MESSAGES
@@ -133,5 +132,5 @@
 /lib/cmake/KF6Archive/KF6ArchiveConfig.cmake
 /lib/cmake/KF6Archive/KF6ArchiveConfigVersion.cmake
 /lib/cmake/KF6Archive/KF6ArchiveTargets.cmake
-/lib/cmake/KF6Archive/KF6ArchiveTargets-noconfig.cmake
+/lib/cmake/KF6Archive/KF6ArchiveTargets-release.cmake
 /lib/pkgconfig/KF6Archive.pc

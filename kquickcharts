@@ -1,8 +1,6 @@
 6.30.0
 /usr/lib
 /usr/lib/libQuickCharts.so.6.30.0
-/usr/lib/libQuickCharts.so.1
-/usr/lib/libQuickChartsControls.so.1
 /usr/lib/libQuickChartsControls.so.6.30.0
 /usr/lib/qml/org/kde/quickcharts
 /usr/lib/qml/org/kde/quickcharts/kde-qmlmodule.version
@@ -15,10 +13,10 @@
 /usr/lib/qml/org/kde/quickcharts/controls/QuickChartsControls.qmltypes
 /usr/lib/qml/org/kde/quickcharts/controls/qmldir
 /usr/lib/cmake/KF6QuickCharts
+/usr/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets-release.cmake
 /usr/lib/cmake/KF6QuickCharts/KF6QuickChartsConfig.cmake
 /usr/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets.cmake
 /usr/lib/cmake/KF6QuickCharts/KF6QuickChartsConfigVersion.cmake
-/usr/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets-noconfig.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/kquickcharts.categories
 /lib/qml/org/kde/quickcharts/controls/libQuickChartsControlsplugin.so
@@ -44,4 +42,4 @@
 /lib/cmake/KF6QuickCharts/KF6QuickChartsConfig.cmake
 /lib/cmake/KF6QuickCharts/KF6QuickChartsConfigVersion.cmake
 /lib/cmake/KF6QuickCharts/KF6QuickChartsTargets.cmake
-/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets-noconfig.cmake
+/lib/cmake/KF6QuickCharts/KF6QuickChartsTargets-release.cmake

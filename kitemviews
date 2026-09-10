@@ -4,11 +4,10 @@
 /usr/lib/plugins/designer/kitemviews6widgets.so
 /usr/lib/libKF6ItemViews.so.6.30.0
 /usr/lib/cmake/KF6ItemViews
-/usr/lib/cmake/KF6ItemViews/KF6ItemViewsTargets-noconfig.cmake
 /usr/lib/cmake/KF6ItemViews/KF6ItemViewsConfig.cmake
 /usr/lib/cmake/KF6ItemViews/KF6ItemViewsConfigVersion.cmake
 /usr/lib/cmake/KF6ItemViews/KF6ItemViewsTargets.cmake
-/usr/lib/libKF6ItemViews.so.6
+/usr/lib/cmake/KF6ItemViews/KF6ItemViewsTargets-release.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/kitemviews6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -241,4 +240,4 @@
 /lib/cmake/KF6ItemViews/KF6ItemViewsConfig.cmake
 /lib/cmake/KF6ItemViews/KF6ItemViewsConfigVersion.cmake
 /lib/cmake/KF6ItemViews/KF6ItemViewsTargets.cmake
-/lib/cmake/KF6ItemViews/KF6ItemViewsTargets-noconfig.cmake
+/lib/cmake/KF6ItemViews/KF6ItemViewsTargets-release.cmake

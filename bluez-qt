@@ -1,6 +1,5 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6BluezQt.so.6
 /usr/lib/libKF6BluezQt.so.6.30.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6BluezQt.pc
@@ -10,9 +9,9 @@
 /usr/lib/qml/org/kde/bluezqt/qmldir
 /usr/lib/qml/org/kde/bluezqt/bluezqtextensionplugin.qmltypes
 /usr/lib/cmake/KF6BluezQt
-/usr/lib/cmake/KF6BluezQt/KF6BluezQtTargets-noconfig.cmake
 /usr/lib/cmake/KF6BluezQt/KF6BluezQtConfigVersion.cmake
 /usr/lib/cmake/KF6BluezQt/KF6BluezQtConfig.cmake
+/usr/lib/cmake/KF6BluezQt/KF6BluezQtTargets-release.cmake
 /usr/lib/cmake/KF6BluezQt/KF6BluezQtTargets.cmake
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/bluezqt.categories
@@ -113,5 +112,5 @@
 /lib/cmake/KF6BluezQt/KF6BluezQtConfig.cmake
 /lib/cmake/KF6BluezQt/KF6BluezQtConfigVersion.cmake
 /lib/cmake/KF6BluezQt/KF6BluezQtTargets.cmake
-/lib/cmake/KF6BluezQt/KF6BluezQtTargets-noconfig.cmake
+/lib/cmake/KF6BluezQt/KF6BluezQtTargets-release.cmake
 /lib/pkgconfig/KF6BluezQt.pc

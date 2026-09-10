@@ -1,14 +1,13 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6ItemModels.so.6.30.0
-/usr/lib/libKF6ItemModels.so.6
 /usr/lib/qml/org/kde/kitemmodels
 /usr/lib/qml/org/kde/kitemmodels/kde-qmlmodule.version
 /usr/lib/qml/org/kde/kitemmodels/itemmodelsplugin.qmltypes
 /usr/lib/qml/org/kde/kitemmodels/libitemmodelsplugin.so
 /usr/lib/qml/org/kde/kitemmodels/qmldir
 /usr/lib/cmake/KF6ItemModels
-/usr/lib/cmake/KF6ItemModels/KF6ItemModelsTargets-noconfig.cmake
+/usr/lib/cmake/KF6ItemModels/KF6ItemModelsTargets-release.cmake
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsConfig.cmake
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsConfigVersion.cmake
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsTargets.cmake
@@ -48,4 +47,4 @@
 /lib/cmake/KF6ItemModels/KF6ItemModelsConfig.cmake
 /lib/cmake/KF6ItemModels/KF6ItemModelsConfigVersion.cmake
 /lib/cmake/KF6ItemModels/KF6ItemModelsTargets.cmake
-/lib/cmake/KF6ItemModels/KF6ItemModelsTargets-noconfig.cmake
+/lib/cmake/KF6ItemModels/KF6ItemModelsTargets-release.cmake

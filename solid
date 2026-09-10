@@ -1,12 +1,11 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6Solid.so.6
 /usr/lib/libKF6Solid.so.6.30.0
 /usr/lib/cmake/KF6Solid
 /usr/lib/cmake/KF6Solid/KF6SolidConfigVersion.cmake
+/usr/lib/cmake/KF6Solid/KF6SolidTargets-release.cmake
 /usr/lib/cmake/KF6Solid/KF6SolidConfig.cmake
 /usr/lib/cmake/KF6Solid/KF6SolidTargets.cmake
-/usr/lib/cmake/KF6Solid/KF6SolidTargets-noconfig.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/solid6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -190,4 +189,4 @@
 /lib/cmake/KF6Solid/KF6SolidConfig.cmake
 /lib/cmake/KF6Solid/KF6SolidConfigVersion.cmake
 /lib/cmake/KF6Solid/KF6SolidTargets.cmake
-/lib/cmake/KF6Solid/KF6SolidTargets-noconfig.cmake
+/lib/cmake/KF6Solid/KF6SolidTargets-release.cmake

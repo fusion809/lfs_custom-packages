@@ -1,6 +1,5 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6Holidays.so.6
 /usr/lib/libKF6Holidays.so.6.30.0
 /usr/lib/qml/org/kde/kholidays
 /usr/lib/qml/org/kde/kholidays/kde-qmlmodule.version
@@ -9,9 +8,9 @@
 /usr/lib/qml/org/kde/kholidays/libkholidaysdeclarativeplugin.so
 /usr/lib/cmake/KF6Holidays
 /usr/lib/cmake/KF6Holidays/KF6HolidaysConfigVersion.cmake
+/usr/lib/cmake/KF6Holidays/KF6HolidaysTargets-release.cmake
 /usr/lib/cmake/KF6Holidays/KF6HolidaysConfig.cmake
 /usr/lib/cmake/KF6Holidays/KF6HolidaysTargets.cmake
-/usr/lib/cmake/KF6Holidays/KF6HolidaysTargets-noconfig.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/libkholidays6_qt.qm
 /usr/share/locale/nds/LC_MESSAGES
@@ -199,4 +198,4 @@
 /lib/cmake/KF6Holidays/KF6HolidaysConfig.cmake
 /lib/cmake/KF6Holidays/KF6HolidaysConfigVersion.cmake
 /lib/cmake/KF6Holidays/KF6HolidaysTargets.cmake
-/lib/cmake/KF6Holidays/KF6HolidaysTargets-noconfig.cmake
+/lib/cmake/KF6Holidays/KF6HolidaysTargets-release.cmake

@@ -1,13 +1,11 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6SonnetUi.so.6.30.0
-/usr/lib/libKF6SonnetCore.so.6
 /usr/lib/plugins/kf6/sonnet
 /usr/lib/plugins/kf6/sonnet/sonnet_aspell.so
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/sonnet6widgets.so
 /usr/lib/libKF6SonnetCore.so.6.30.0
-/usr/lib/libKF6SonnetUi.so.6
 /usr/lib/qml/org/kde/sonnet
 /usr/lib/qml/org/kde/sonnet/kde-qmlmodule.version
 /usr/lib/qml/org/kde/sonnet/qmldir
@@ -15,8 +13,8 @@
 /usr/lib/qml/org/kde/sonnet/libsonnetquickplugin.so
 /usr/lib/cmake/KF6Sonnet
 /usr/lib/cmake/KF6Sonnet/KF6SonnetConfigVersion.cmake
+/usr/lib/cmake/KF6Sonnet/KF6SonnetTargets-release.cmake
 /usr/lib/cmake/KF6Sonnet/KF6SonnetTargets.cmake
-/usr/lib/cmake/KF6Sonnet/KF6SonnetTargets-noconfig.cmake
 /usr/lib/cmake/KF6Sonnet/KF6SonnetConfig.cmake
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/sonnet6_qt.qm
@@ -273,4 +271,4 @@
 /lib/cmake/KF6Sonnet/KF6SonnetConfig.cmake
 /lib/cmake/KF6Sonnet/KF6SonnetConfigVersion.cmake
 /lib/cmake/KF6Sonnet/KF6SonnetTargets.cmake
-/lib/cmake/KF6Sonnet/KF6SonnetTargets-noconfig.cmake
+/lib/cmake/KF6Sonnet/KF6SonnetTargets-release.cmake

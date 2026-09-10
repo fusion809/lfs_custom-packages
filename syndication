@@ -1,10 +1,9 @@
 6.30.0
 /usr/lib
 /usr/lib/libKF6Syndication.so.6.30.0
-/usr/lib/libKF6Syndication.so.6
 /usr/lib/cmake/KF6Syndication
+/usr/lib/cmake/KF6Syndication/KF6SyndicationTargets-release.cmake
 /usr/lib/cmake/KF6Syndication/KF6SyndicationConfigVersion.cmake
-/usr/lib/cmake/KF6Syndication/KF6SyndicationTargets-noconfig.cmake
 /usr/lib/cmake/KF6Syndication/KF6SyndicationTargets.cmake
 /usr/lib/cmake/KF6Syndication/KF6SyndicationConfig.cmake
 /usr/share/qlogging-categories6
@@ -47,7 +46,6 @@
 /usr/include/KF6/Syndication/Syndication/Loader
 /usr/include/KF6/Syndication/Syndication/Item
 /usr/include/KF6/Syndication/syndication
-/usr/include/KF6/Syndication/syndication/atom
 /usr/include/KF6/Syndication/syndication/syndication_export.h
 /usr/include/KF6/Syndication/syndication/atom/atom.h
 /usr/include/KF6/Syndication/syndication/atom/category.h
@@ -87,4 +85,4 @@
 /lib/cmake/KF6Syndication/KF6SyndicationConfig.cmake
 /lib/cmake/KF6Syndication/KF6SyndicationConfigVersion.cmake
 /lib/cmake/KF6Syndication/KF6SyndicationTargets.cmake
-/lib/cmake/KF6Syndication/KF6SyndicationTargets-noconfig.cmake
+/lib/cmake/KF6Syndication/KF6SyndicationTargets-release.cmake

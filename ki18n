@@ -1,10 +1,7 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6I18nQml.so.6
-/usr/lib/libKF6I18nLocaleData.so.6
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/ktranscript.so
-/usr/lib/libKF6I18n.so.6
 /usr/lib/libKF6I18n.so.6.30.0
 /usr/lib/libKF6I18nQml.so.6.30.0
 /usr/lib/libKF6I18nLocaleData.so.6.30.0
@@ -19,7 +16,7 @@
 /usr/lib/qml/org/kde/ki18n/KF6I18nQml.qmltypes
 /usr/lib/qml/org/kde/ki18n/qmldir
 /usr/lib/cmake/KF6I18n
-/usr/lib/cmake/KF6I18n/KF6I18nTargets-noconfig.cmake
+/usr/lib/cmake/KF6I18n/KF6I18nTargets-release.cmake
 /usr/lib/cmake/KF6I18n/KF6I18nMacros.cmake
 /usr/lib/cmake/KF6I18n/KF6I18nConfigVersion.cmake
 /usr/lib/cmake/KF6I18n/KF6I18nTargets.cmake
@@ -58,7 +55,6 @@
 /usr/share/locale/lt/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/it/LC_MESSAGES
 /usr/share/locale/it/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/gd/LC_SCRIPTS/ki18n6
 /usr/share/locale/gd/LC_MESSAGES
 /usr/share/locale/gd/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/hr/LC_MESSAGES
@@ -103,7 +99,6 @@
 /usr/share/locale/ha/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/lb/LC_MESSAGES
 /usr/share/locale/lb/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/ko/LC_SCRIPTS/ki18n6
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/ps/LC_MESSAGES
@@ -166,14 +161,12 @@
 /usr/share/locale/de/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/hu/LC_MESSAGES
 /usr/share/locale/hu/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/ru/LC_SCRIPTS/ki18n6
 /usr/share/locale/ru/LC_MESSAGES
 /usr/share/locale/ru/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/he/LC_MESSAGES
 /usr/share/locale/he/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/id/LC_MESSAGES
 /usr/share/locale/id/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/ja/LC_SCRIPTS/ki18n6
 /usr/share/locale/ja/LC_MESSAGES
 /usr/share/locale/ja/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/bg/LC_MESSAGES
@@ -206,10 +199,8 @@
 /usr/share/locale/af/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/hne/LC_MESSAGES
 /usr/share/locale/hne/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/uk/LC_SCRIPTS/ki18n6
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/ca@valencia/LC_SCRIPTS/ki18n6
 /usr/share/locale/ca@valencia/LC_MESSAGES
 /usr/share/locale/ca@valencia/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/kn/LC_MESSAGES
@@ -218,7 +209,6 @@
 /usr/share/locale/cy/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/xh/LC_MESSAGES
 /usr/share/locale/xh/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/nb/LC_SCRIPTS/ki18n6
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/ar/LC_MESSAGES
@@ -247,7 +237,6 @@
 /usr/share/locale/hy/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/ki18n6.mo
-/usr/share/locale/ca/LC_SCRIPTS/ki18n6
 /usr/share/locale/ca/LC_MESSAGES
 /usr/share/locale/ca/LC_MESSAGES/ki18n6.mo
 /usr/share/locale/or/LC_MESSAGES
@@ -291,6 +280,7 @@
 /usr/share/locale/it
 /usr/share/locale/gd
 /usr/share/locale/gd/LC_SCRIPTS
+/usr/share/locale/gd/LC_SCRIPTS/ki18n6
 /usr/share/locale/gd/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/hr
 /usr/share/locale/da
@@ -319,6 +309,7 @@
 /usr/share/locale/lb
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_SCRIPTS
+/usr/share/locale/ko/LC_SCRIPTS/ki18n6
 /usr/share/locale/ko/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/ps
 /usr/share/locale/crh
@@ -360,11 +351,13 @@
 /usr/share/locale/hu
 /usr/share/locale/ru
 /usr/share/locale/ru/LC_SCRIPTS
+/usr/share/locale/ru/LC_SCRIPTS/ki18n6
 /usr/share/locale/ru/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/he
 /usr/share/locale/id
 /usr/share/locale/ja
 /usr/share/locale/ja/LC_SCRIPTS
+/usr/share/locale/ja/LC_SCRIPTS/ki18n6
 /usr/share/locale/ja/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/bg
 /usr/share/locale/be
@@ -383,15 +376,18 @@
 /usr/share/locale/hne
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_SCRIPTS
+/usr/share/locale/uk/LC_SCRIPTS/ki18n6
 /usr/share/locale/uk/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/ca@valencia
 /usr/share/locale/ca@valencia/LC_SCRIPTS
+/usr/share/locale/ca@valencia/LC_SCRIPTS/ki18n6
 /usr/share/locale/ca@valencia/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/kn
 /usr/share/locale/cy
 /usr/share/locale/xh
 /usr/share/locale/nb
 /usr/share/locale/nb/LC_SCRIPTS
+/usr/share/locale/nb/LC_SCRIPTS/ki18n6
 /usr/share/locale/nb/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/ar
 /usr/share/locale/tg
@@ -408,6 +404,7 @@
 /usr/share/locale/pt_BR
 /usr/share/locale/ca
 /usr/share/locale/ca/LC_SCRIPTS
+/usr/share/locale/ca/LC_SCRIPTS/ki18n6
 /usr/share/locale/ca/LC_SCRIPTS/ki18n6/ki18n6.js
 /usr/share/locale/or
 /lib/libKF6I18n.so.6.30.0
@@ -441,7 +438,7 @@
 /lib/cmake/KF6I18n/KF6I18nConfig.cmake
 /lib/cmake/KF6I18n/KF6I18nConfigVersion.cmake
 /lib/cmake/KF6I18n/KF6I18nTargets.cmake
-/lib/cmake/KF6I18n/KF6I18nTargets-noconfig.cmake
+/lib/cmake/KF6I18n/KF6I18nTargets-release.cmake
 /lib/cmake/KF6I18n/KF6I18nMacros.cmake
 /lib/cmake/KF6I18n/kf6i18nuic.cmake
 /lib/cmake/KF6I18n/build-pofiles.cmake

@@ -1,11 +1,10 @@
 6.30.0
 /usr/lib
-/usr/lib/libKF6ThreadWeaver.so.6
 /usr/lib/libKF6ThreadWeaver.so.6.30.0
 /usr/lib/cmake/KF6ThreadWeaver
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets.cmake
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfig.cmake
-/usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets-noconfig.cmake
+/usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets-release.cmake
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfigVersion.cmake
 /usr/include/KF6/ThreadWeaver
 /usr/include/KF6/ThreadWeaver/ThreadWeaver
@@ -84,4 +83,4 @@
 /lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfig.cmake
 /lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverConfigVersion.cmake
 /lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets.cmake
-/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets-noconfig.cmake
+/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets-release.cmake
