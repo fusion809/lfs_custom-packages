@@ -1,4 +1,4 @@
-4.22.4
+4.22.5
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/gtk4-broadway.pc
@@ -7,8 +7,8 @@
 /usr/lib/pkgconfig/gtk4.pc
 /usr/lib/pkgconfig/gtk4-unix-print.pc
 /usr/lib/pkgconfig/gtk4-atspi.pc
-/usr/lib/libgtk-4.so.1.2200.4
 /usr/lib/libgtk-4.so
+/usr/lib/libgtk-4.so.1.2200.5
 /usr/lib/libgtk-4.so.1
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/Gsk-4.0.typelib

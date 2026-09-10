@@ -1,4 +1,4 @@
-26.08.0
+26.08.1
 /usr/lib
 /usr/lib/plugins/kf6/kio
 /usr/lib/plugins/kf6/kio/kio_kateexec.so
@@ -39,7 +39,7 @@
 /usr/lib/plugins/kf6/ktexteditor/katebuildplugin.so
 /usr/lib/plugins/kf6/ktexteditor/katefilebrowserplugin.so
 /usr/lib/plugins/kf6/ktexteditor/katesnippetsplugin.so
-/usr/lib/libkateprivate.so.26.08.0
+/usr/lib/libkateprivate.so.26.08.1
 /usr/share/doc/HTML/it/kate
 /usr/share/doc/HTML/it/kate/index.cache.bz2
 /usr/share/doc/HTML/it/kwrite
@@ -909,6 +909,7 @@
 /usr/share/locale/fi/LC_MESSAGES/katecompilerexplorer.mo
 /usr/share/locale/fi/LC_MESSAGES/kate.mo
 /usr/share/locale/fi/LC_MESSAGES/kateexternaltoolsplugin.mo
+/usr/share/locale/fi/LC_MESSAGES/kateshownonprintableplugin.mo
 /usr/share/locale/fi/LC_MESSAGES/katesearch.mo
 /usr/share/locale/fi/LC_MESSAGES/kategpgplugin.mo
 /usr/share/locale/fi/LC_MESSAGES/katefilebrowserplugin.mo
@@ -1301,8 +1302,11 @@
 /usr/share/locale/ja/LC_MESSAGES/katebuild-plugin.mo
 /usr/share/locale/ja/LC_MESSAGES/katexmltools.mo
 /usr/share/locale/ja/LC_MESSAGES/kategdbplugin.mo
+/usr/share/locale/ja/LC_MESSAGES/katebookmarksplugin.mo
+/usr/share/locale/ja/LC_MESSAGES/katecompilerexplorer.mo
 /usr/share/locale/ja/LC_MESSAGES/kate.mo
 /usr/share/locale/ja/LC_MESSAGES/kateexternaltoolsplugin.mo
+/usr/share/locale/ja/LC_MESSAGES/kateshownonprintableplugin.mo
 /usr/share/locale/ja/LC_MESSAGES/katesearch.mo
 /usr/share/locale/ja/LC_MESSAGES/katefilebrowserplugin.mo
 /usr/share/locale/ja/LC_MESSAGES/katekeyboardmacros.mo
@@ -1322,6 +1326,7 @@
 /usr/share/locale/ja/LC_MESSAGES/katekonsoleplugin.mo
 /usr/share/locale/ja/LC_MESSAGES/formatplugin.mo
 /usr/share/locale/ja/LC_MESSAGES/kategitblameplugin.mo
+/usr/share/locale/ja/LC_MESSAGES/rbqlplugin.mo
 /usr/share/locale/bg/LC_MESSAGES
 /usr/share/locale/bg/LC_MESSAGES/katecolorpickerplugin.mo
 /usr/share/locale/bg/LC_MESSAGES/katexmlcheck.mo
@@ -2096,7 +2101,7 @@
 /lib/plugins/kf6/ktexteditor/rbqlplugin.so
 /lib/plugins/kf6/ktexteditor/bookmarksplugin.so
 /lib/plugins/kf6/ktexteditor/kategpgplugin.so
-/lib/libkateprivate.so.26.08.0
+/lib/libkateprivate.so.26.08.1
 /bin/exec_inspect.sh
 /lib/plugins/kf6/kio/kio_kateexec.so
 /bin/kate

@@ -1,3 +1,4 @@
+261.3
 261.2
 /usr/sbin
 /usr/sbin/reboot
@@ -413,8 +414,9 @@
 /usr/lib/sysctl.d
 /usr/lib/sysctl.d/50-coredump.conf
 /usr/lib/libsystemd.so.0
-/usr/share/doc/systemd-261.2
-/usr/share/doc/systemd-261.2/LICENSES
+/usr/share/doc
+/usr/share/doc/systemd-261.3
+/usr/share/doc/systemd-261.3/LICENSES
 /usr/share/polkit-1/actions
 /usr/share/polkit-1/actions/org.freedesktop.systemd1.policy
 /usr/share/polkit-1/rules.d
