@@ -1,4 +1,4 @@
-9eaccc1f62c78c5461b2b201bcb69a2835b2c815
+0c77211b1aa30583299ebe15d801e1ad82b7529c
 /usr/lib/liblapacke.so
 /usr/lib/liblapacke.so.3
 /usr/lib/liblapacke.so.3.12.1
@@ -29,7 +29,12 @@
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/lapack-3.12.1
 /usr/share/doc
-/usr/share/doc/lapack-9eaccc1f62c78c5461b2b201bcb69a2835b2c815
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c/org2.ps
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c/lawn81.tex
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c/lapack.png
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c/LICENSE
+/usr/share/doc/lapack-0c77211b1aa30583299ebe15d801e1ad82b7529c/README.md
 /usr/include
 /usr/include/cblas_f77.h
 /usr/include/cblas.h
