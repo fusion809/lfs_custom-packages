@@ -283,6 +283,7 @@
 /usr/share/themes/Breeze-Dark/assets/button.png
 /usr/share/themes/Breeze-Dark/assets/arrow-down-active.png
 /usr/share/themes/Breeze-Dark/assets/tab-top-inactive.png
+/usr/share/themes/Breeze-Dark/settings.ini
 /usr/share/themes/Breeze-Dark/gtk-4.0
 /usr/share/themes/Breeze-Dark/gtk-4.0/gtk.css
 /usr/share/themes/Breeze
@@ -570,6 +571,7 @@
 /usr/share/themes/Breeze/assets/button.png
 /usr/share/themes/Breeze/assets/arrow-down-active.png
 /usr/share/themes/Breeze/assets/tab-top-inactive.png
+/usr/share/themes/Breeze/settings.ini
 /usr/share/themes/Breeze/gtk-4.0
 /usr/share/themes/Breeze/gtk-4.0/gtk-dark.css
 /usr/share/themes/Breeze/gtk-4.0/gtk.css
@@ -1147,5 +1149,3 @@
 /usr/share/themes//Breeze-Dark/assets/tab-top-inactive.png
 /usr/share/themes//Breeze-Dark/gtk-4.0
 /usr/share/themes//Breeze-Dark/gtk-4.0/gtk.css
-/usr/share/themes/Breeze/settings.ini
-/usr/share/themes/Breeze-Dark/settings.ini

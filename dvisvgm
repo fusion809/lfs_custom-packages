@@ -1,12 +1,5 @@
 3.6.1
-/opt
-/opt/texlive
-/opt/texlive/2026
-/opt/texlive/2026/bin
 /opt/texlive/2026/bin/x86_64-linux
 /opt/texlive/2026/bin/x86_64-linux/dvisvgm
-/opt/texlive/2026/texmf-dist
-/opt/texlive/2026/texmf-dist/doc
-/opt/texlive/2026/texmf-dist/doc/man
 /opt/texlive/2026/texmf-dist/doc/man/man1
 /opt/texlive/2026/texmf-dist/doc/man/man1/dvisvgm.1
