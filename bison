@@ -1,7 +1,6 @@
 3.8.2
 /usr/lib
 /usr/lib/liby.a
-/usr/share/doc
 /usr/share/doc/bison-3.8.2
 /usr/share/doc/bison-3.8.2/COPYING
 /usr/share/doc/bison-3.8.2/TODO

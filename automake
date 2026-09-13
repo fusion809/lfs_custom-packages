@@ -1,5 +1,4 @@
 1.19
-/usr/share
 /usr/share/aclocal-1.19
 /usr/share/aclocal-1.19/make.m4
 /usr/share/aclocal-1.19/tar.m4
@@ -38,7 +37,6 @@
 /usr/share/aclocal-1.19/runlog.m4
 /usr/share/aclocal-1.19/lex.m4
 /usr/share/aclocal-1.19/optional.m4
-/usr/share/doc
 /usr/share/doc/automake-1.19
 /usr/share/doc/automake-1.19/amhello-1.0.tar.gz
 /usr/share/aclocal

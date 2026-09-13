@@ -7,6 +7,8 @@
 /usr/lib/pkgconfig/blas.pc
 /usr/lib/pkgconfig/lapack.pc
 /usr/lib/libblas.so.3.12.1
+/usr/lib/libblas.a
+/usr/lib/liblapack.a
 /usr/lib/cmake/cblas-3.12.1
 /usr/lib/cmake/cblas-3.12.1/cblas-config.cmake
 /usr/lib/cmake/cblas-3.12.1/cblas-targets.cmake
@@ -19,9 +21,7 @@
 /usr/lib/cmake/lapack-3.12.1/blas-targets.cmake
 /usr/lib/cmake/lapack-3.12.1/lapack-targets.cmake
 /usr/lib/cmake/lapack-3.12.1/blas-targets-none.cmake
-/usr/share/doc
-/usr/share/doc/blas-lapack-6b64b63b358202a45999e061055fedb9fe736f9e
-/usr/share/doc/blas-lapack-6b64b63b358202a45999e061055fedb9fe736f9e/LICENSE
+/usr/lib/libcblas.a
 /usr/include
 /usr/include/lapacke_mangling.h
 /usr/include/cblas.h
@@ -51,3 +51,6 @@
 /lib/pkgconfig/lapack.pc
 /lib/cmake/lapack-3.12.1/lapack-config.cmake
 /lib/cmake/lapack-3.12.1/lapack-config-version.cmake
+/lib/libblas.a
+/lib/libcblas.a
+/lib/liblapack.a
