@@ -1414,3 +1414,5 @@
 /usr/bin
 /usr/bin/zsh-5.9.2
 /usr/bin/zsh
+/usr/lib/zsh/5.9.2/zsh/pcre.so
+/usr/bin/zsh.old
